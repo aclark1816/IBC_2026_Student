@@ -58,3 +58,11 @@ wc CodonTable.tsv
 ```bash
 cat CodonTable.tsv
 ```
+
+## To upload this code to github, I used the following commands to add, commit, and push the file.
+
+```bash
+git add Clark_P1.md
+git commit -m "Addded Clark_P1.md"
+git push
+```
