@@ -62,7 +62,7 @@ codon_str.split(" ")
 # Matches codon to corresponding amino acid
 # Prints out a chain of amino acids
 codon_dict["CTA"] + "-" + codon_dict["GGA"] + "-" + codon_dict["GTG"] + "-" + codon_dict["ATT"] + "-" + codon_dict["ACG"]
-```
+     ```
 
     'Leu-Gly-Val-Ile-Thr'
 
