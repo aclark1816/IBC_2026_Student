@@ -5,7 +5,7 @@
 
 name = "Alexei Clark" # Name
 fav_color = "Blue" # Favorite Color
-fav_activ = "Playing Video Gamees" # Favorite Activity
+fav_activ = "Playing Video Games" # Favorite Activity
 fav_anim = "Kiwi" # Favorite Animal
 
 # Print out full panel, separating text and variables
