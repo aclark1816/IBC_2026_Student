@@ -26,3 +26,6 @@ print("My Name: " + name +
     My Favorite Animal: Kiwi
     
 ```
+
+### To complete this task, I simply created a variable for each characteristic. 
+### I then used the /n command to delineate separate lines within the scope of onee print() function.
