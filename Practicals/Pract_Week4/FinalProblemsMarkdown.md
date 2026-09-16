@@ -22,7 +22,7 @@ print("My Name: " + name +
 
     My Name: Alexei Clark
     My Favorite Color: Blue
-    My Favorite Activity: Playing Video Gamees
+    My Favorite Activity: Playing Video Games
     My Favorite Animal: Kiwi
     
 ```
