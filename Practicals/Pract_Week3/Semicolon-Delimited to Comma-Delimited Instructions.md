@@ -19,5 +19,3 @@ echo "Converted $input_file and saved as $output_file"
 git add Clark_Semicolon_Converter.sh
 git commit -m "Added Clark_Semicolon_Converter.sh"
 git push origin main --force
-
-``
