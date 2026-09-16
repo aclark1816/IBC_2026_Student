@@ -54,15 +54,16 @@ codon_str = "CTA GGA GTG ATT ACG"
 # Splitting codon string by spaces
 # New variable stored under split_codon
 codon_str.split(" ")
-     ```
 
     ['CTA', 'GGA', 'GTG', 'ATT', 'ACG']
 
-```python
 # Matches codon to corresponding amino acid
 # Prints out a chain of amino acids
 codon_dict["CTA"] + "-" + codon_dict["GGA"] + "-" + codon_dict["GTG"] + "-" + codon_dict["ATT"] + "-" + codon_dict["ACG"]
-     ```
 
     'Leu-Gly-Val-Ile-Thr'
+```
+## To complete this portion of the assignment, I first created the codon dictionary (codon_dict) using the codon and corresponding amino acid
+## as the key and value, respectively. After creating and separating a codon string (codon_str), I searched for each codon in the dictionary.
+## Finally, I added dashes to print out the chain of amino acids in a more presentable manner.
 
