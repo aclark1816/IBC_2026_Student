@@ -28,7 +28,7 @@ print("My Name: " + name +
 ```
 
 ### To complete this task, I simply created a variable for each characteristic. 
-### I then used the /n command to delineate separate lines within the scope of onee print() function.
+### I then used the /n command to delineate separate lines within the scope of one print() function.
 
 ## Assignment #2: Codon to Amino Acid
 
