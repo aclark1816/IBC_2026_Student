@@ -74,12 +74,33 @@ for x in range(1, 101):
         print(x) # Prints number if it is not divisible by 5 or 3
 
 ```
+### This code follows the same logic as the pseudoscript.
+--------------------------------------------------------------------------------------------------------------------------------------------
+## Assignment #3: GC Content From Fasta
+### The objective of this assignment is to write a file that contains the sequence names and GC content of all 15 coding sequences in the Turkey_transcripts_15.fasta file
 
+  ```Python
 
+# The following code aims to determine the GC content from the Turkey_trascripts_15.fasta file
 
+tt = open(r"c:\Users\Alexei Clark\Documents\IntroCompBiol\IntroBiolComp-2026\IntroBiolComp-2026\W5\Python\DataFiles\Turkey_transcripts_15.fasta", "r")
 
+tt.seek(0) # Resets file if needed
 
-
+for x in tt: # for loop
+    
+    if x.startswith(">"): # Header of fasta file
+        if dna:
+            gc = (dna.count("G") + dna.count("C")) / len(dna) # Measures GC content, or proportion of Gs and Cs relative to the length
+            print(name, "   ", round(gc, 3)) # Round function truncates
+        
+        name = x[1:].split()[0] # Splits by spaces, captures first string
+        
+    else:
+        dna += x # new syntax, adds to dna variable
 
 ```
+
+### This code extracts the relevant file, and runs a for loop. Within the for loop are nested if statements, which creates a "list" of the gc contents of each sequence and output the name, followed by a truncated content value. This loop repeats until all sequences are captured. 
+
 
