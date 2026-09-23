@@ -38,14 +38,32 @@ while batterSticktoKinfe == True
 ### ---------------------------------------------------------------------------------------------------------------------------
 ### Pseudocode Script:
 
-  ```python
+  ```Python
+
 
 # for loop for printing fizz, buzz, and fizzbuzz
-if x % 3 == 0:
-      print("fizz")
-if x % 5 == 0:
-      print("buzz")
-if x % 15 == 0:
+x = 1
+
+for x in range(100) 
+     if x % 15 == 0: # Least common denominator for numbers divisible by 3 and 5
+        x = x + 1
+        print(x, "fizzbuzz")
+    elif x % 3 == 0:
+        print(x, "fizz")
+        x = x + 1
+    elif x % 5 == 0:
+        print(x, "buzz")
+        x = x + 1
+
+```
+
+### The previous pseudocode runs the Fizz Buzz game for numbers 1-100. Firstly, the for loop checks if x is divisible by 15, which indicates that the number is divisible by 3
+### and 5. Then, it checks if x is divisble by 3, before checking if it's divisible by 5. This is laid out such that there won't be three print statements for x if it's divisible
+### by 3 and 5.
+--------------------------------------------------------------------------------------------------------------------------------------
+### Python Script
+
+  ```Python
 
 
 ```
