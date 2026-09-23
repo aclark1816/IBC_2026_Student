@@ -2,7 +2,6 @@
 
 ## Assignment #1: Baking a Cake
 ### The objective of this task was to describe baking a cake in pseudocode. As such, pseudocode for this assignment is only included in this master file, rather than in a separate ### file.
-### ---------------------------------------------------------------------------------------------
 ### Pseudocode Script
 
   ```Python
@@ -34,7 +33,6 @@ while batterSticktoKinfe == True
 
 ## Assignment #2: Fizz Buzz
 ### The objective of this assignment is to write pseudocode and actual code for the FizzBuzz game.
-### ---------------------------------------------------------------------------------------------------------------------------
 ### Pseudocode Script:
 
   ```Python
