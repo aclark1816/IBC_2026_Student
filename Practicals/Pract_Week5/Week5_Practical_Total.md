@@ -30,8 +30,7 @@ while batterSticktoKinfe == True
 
   ```
 
-### Firstly, I made a list i, listed them in order with a for loop, and mixed the ingredients in the ing_mixed variable. Then, I created a while loop, with the start time (t) at 20
-### minutes and a cookTemp variable at 400 degrees Fahrenheit. With the cakeDone variable set to False, and the batterSticktoKnife variable set to True, I made the loop conditional ### on ending when the batterSticktoKnife variable is false. If that isn't the case, then the cake variable would be assumed to be false.
+### Firstly, I made a list i, listed them in order with a for loop, and mixed the ingredients in the ing_mixed variable. Then, I created a while loop, with the start time (t) at 20 minutes and a cookTemp variable at 400 degrees Fahrenheit. With the cakeDone variable set to False, and the batterSticktoKnife variable set to True, I made the loop conditional on ending when the batterSticktoKnife variable is false. If that isn't the case, then the cake variable would be assumed to be false.
 
 ## Assignment #2: Fizz Buzz
 ### The objective of this assignment is to write pseudocode and actual code for the FizzBuzz game.
@@ -44,7 +43,7 @@ while batterSticktoKinfe == True
 # for loop for printing fizz, buzz, and fizzbuzz
 x = 1
 
-for x in range(100) 
+for x in range(100): 
      if x % 15 == 0: # Least common denominator for numbers divisible by 3 and 5
         x = x + 1
         print(x, "fizzbuzz")
@@ -63,8 +62,20 @@ for x in range(100)
 
   ```Python
 
+# for loop for printing fizz, buzz, and fizzbuzz
+for x in range(1, 101):
+    if x % 15 == 0: # Divisible by 5 and 3
+        print(x, "fizzbuzz")
+    elif x % 3 == 0: # Divisible by 3
+        print(x, "fizz")
+    elif x % 5 == 0: # Divisible by 5
+        print(x, "buzz")
+    else:
+        print(x) # Prints number if it is not divisible by 5 or 3
 
 ```
+
+
 
 
 
