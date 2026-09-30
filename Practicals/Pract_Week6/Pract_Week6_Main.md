@@ -27,7 +27,7 @@ def get_amino_acids(mRNA): # Line 5: The get_amino_acid() function is defined fo
         i = i + 4 # Line 15: Goes to next codon
     return "".join(aa_sequence) # Line 16: Joins the amino acid sequences in a string
 
-print(get_amino_acids(test_mRNA)) # prints out the amino acid chain for the test mRNA chain
+print(get_amino_acids(test_mRNA)) # Line 17: Prints out the amino acid chain for the test mRNA chain
 # problem: the program returns MNLLEV instead of MEFSL!
 ```
 ### I then debugged this code using pdb. The corrected code is as follows, which answers question 2:
