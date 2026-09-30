@@ -30,7 +30,7 @@ def get_amino_acids(mRNA): # Line 5: The get_amino_acid() function is defined fo
 print(get_amino_acids(test_mRNA))
 # problem: the program returns MNLLEV instead of MEFSL!
 ```
-### I then debugged this code using pdb. The corrected code is as follows:
+### I then debugged this code using pdb. The corrected code is as follows, which answers question 2:
 
   ```python
 some code
