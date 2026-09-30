@@ -74,4 +74,11 @@ pdb.runcall(get_amino_acids, test_mRNA)
 ['AUG', 'AAU', 'CUC', 'CUC', 'GAA', 'GUA']
 ```
 
-### When compared to the test_mRNA variable, it is discovered that every fourth nucleic acid is skipped. This explains the discrepancy.
+### When compared to the test_mRNA variable, it is discovered that every fourth nucleic acid is skipped. This explains the discrepancy. The corrected file (pickle_debug) is posted within this folder, along with the various errors I encountered during the process of coming to this answer for the purpose of feedback and transparency.
+
+## Problem #2: Gobbler Proteins
+### The objective of this problem was to apply the corrected script to the Turkey_transcripts_15_coding.fasta file and print the amino acids. The base of this code, the corrected pickle_debug file is listed below (and is in this folder as pickle_debug_corrected).
+
+  ```python
+
+```
