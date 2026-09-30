@@ -111,4 +111,64 @@ print(get_amino_acids(test_mRNA))
 
 ### Then, this file was modified to accept the Turkey_transcripts_15_coding.fasta file.
 
+  ```python
+import pickle
+
+# Load dictionary with genetic code from pickle file
+genetic_code = pickle.load(open(r"C:\Users\Alexei Clark\Documents\IntroCompBiol\IntroBiolComp-2026\Python\genetic_code.pickle","rb",))
+
+# Portion of code from previous question
+def get_amino_acids(mRNA):
+    i = 0
+    aa_sequence = []
+    while (i + 3) <= len(mRNA):
+        codon = mRNA[i : (i + 3)]
+        aa = genetic_code.get(codon, "?")
+        if aa == "Stop":
+            break
+        else:
+            aa_sequence.append(aa)
+        i = i + 3
+    return "".join(aa_sequence)
+
+
+# Open FASTA file containing the transcripts
+tt = open(r"C:\Users\Alexei Clark\Documents\IntroCompBiol\IntroBiolComp-2026\Python\DataFiles\Turkey_transcripts_15_coding.fasta","r",)
+
+tt.seek(0)  # Resets file pointer if needed
+
+name = ""
+dna = ""
+
+for x in tt:
+    if x.startswith(">"):  # Header of FASTA file
+        if dna:
+            # Calculate and display GC content
+            gc = (dna.count("G") + dna.count("C")) / len(dna)
+            print(f"Header: {name}")
+            print(f"GC Content: {round(gc, 3)}")
+
+            # Convert DNA to mRNA and translate to Amino Acid sequence
+            mrna = dna.replace("T", "U")
+            aa_seq = get_amino_acids(mrna)
+            print(f"AA Sequence: {aa_seq}\n" + "-" * 50)
+
+            dna = ""  # Reset sequence accumulator for next entry
+
+        name = x[1:].split()[0]  # Capture transcript identifier header
+    else:
+        dna += x.strip()  # Accumulate sequence lines
+
+# Submit all else
+if dna:
+    gc = (dna.count("G") + dna.count("C")) / len(dna)
+    print(f"Header: {name}")
+    print(f"GC Content: {round(gc, 3)}")
+
+    mrna = dna.replace("T", "U")
+    aa_seq = get_amino_acids(mrna)
+    print(f"AA Sequence: {aa_seq}")
+```
+### This code meshed the script developed in the previous practical assignment for a similar fasta file along with the script presented to us in class today. As such, the code first displays the library for each codon. Then, with each codon, the amino acids for each mRNA chain are displayed using the startswith(">") function that I used to complete a similar assignment previously.
+
 
