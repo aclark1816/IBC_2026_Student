@@ -74,11 +74,41 @@ pdb.runcall(get_amino_acids, test_mRNA)
 ['AUG', 'AAU', 'CUC', 'CUC', 'GAA', 'GUA']
 ```
 
-### When compared to the test_mRNA variable, it is discovered that every fourth nucleic acid is skipped. This explains the discrepancy. The corrected file (pickle_debug) is posted within this folder, along with the various errors I encountered during the process of coming to this answer for the purpose of feedback and transparency.
+### When compared to the test_mRNA variable, it is discovered that every fourth nucleic acid is skipped. This explains the discrepancy. The corrected file (Pickle_Debug) is posted within this folder, along with the various errors I encountered during the process of coming to this answer for the purpose of feedback and transparency.
 
 ## Problem #2: Gobbler Proteins
-### The objective of this problem was to apply the corrected script to the Turkey_transcripts_15_coding.fasta file and print the amino acids. The base of this code, the corrected pickle_debug file is listed below (and is in this folder as pickle_debug_corrected).
+### The objective of this problem was to apply the corrected script to the Turkey_transcripts_15_coding.fasta file and print the amino acids. The base of this code, the corrected pickle_debug file, is listed below (and is in this folder as Pickle_Cebug_Corrected).
 
   ```python
 
+import pickle
+
+# load dictionary with genetic code from pickle file
+genetic_code = pickle.load(open(r"C:\Users\Alexei Clark\Documents\IntroCompBiol\IntroBiolComp-2026\Python\genetic_code.pickle", "rb"))
+
+# test case: desired amino acid sequence
+# MEFSL[stop]
+test_mRNA = "AUGGAAUUCUCGCUCUGAAGGUAA"
+
+def get_amino_acids(mRNA):
+    i = 0
+    aa_sequence = []
+    while (i + 3) < len(mRNA):
+        codon = mRNA[i:(i + 3)]
+        aa = genetic_code[codon]
+        if aa == "Stop":
+            break
+        else:
+            aa_sequence.append(aa)
+        # advance to the next codon
+        i = i + 3 # This was initially i + 4, and should have been i + 3 to reflect the 3-nucleotide length of a codon
+    return "".join(aa_sequence)
+
+print(get_amino_acids(test_mRNA))
+# problem: the program returns MNLLEV instead of MEFSL!
+
 ```
+
+### Then, this file was modified to accept the Turkey_transcripts_15_coding.fasta file.
+
+
