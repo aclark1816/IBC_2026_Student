@@ -33,7 +33,45 @@ print(get_amino_acids(test_mRNA)) # Line 17: Prints out the amino acid chain for
 ### I then debugged this code using pdb. The corrected code is as follows, which answers question 2:
 
   ```python
-some code
+import pickle
+
+# load dictionary with genetic code from pickle file
+genetic_code = pickle.load(open(r"C:\Users\Alexei Clark\Documents\IntroCompBiol\IntroBiolComp-2026\Python\genetic_code.pickle", "rb"))
+
+# test case: desired amino acid sequence
+# MEFSL[stop]
+test_mRNA = "AUGGAAUUCUCGCUCUGAAGGUAA"
+
+def get_amino_acids(mRNA):
+    i = 0
+    aa_sequence = []
+    while (i + 3) < len(mRNA):
+        codon = mRNA[i:(i + 3)]
+        aa = genetic_code[codon]
+        if aa == "Stop":
+            break
+        else:
+            aa_sequence.append(aa)
+        # advance to the next codon
+        i = i + 4
+    return "".join(aa_sequence)
+
+print(get_amino_acids(test_mRNA))
+# problem: the program returns MNLLEV instead of MEFSL!
+
+pdb.runcall(get_amino_acids, test_mRNA)
 ```
 
-### I corrected the code by doing x, y, z...
+### Within the pdb terminal, I typed:
+
+  ```python
+[mRNA[idx:idx+3] for idx in range(0, len(mRNA), 4)]
+```
+
+### This printed out a list of the nucleic acids in every codon, as defined by the while loop in the script. It revealed the following output:
+
+  ```python
+['AUG', 'AAU', 'CUC', 'CUC', 'GAA', 'GUA']
+```
+
+### When compared to the test_mRNA variable, it is discovered that every fourth nucleic acid is skipped. This explains the discrepancy.
