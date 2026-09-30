@@ -5,18 +5,18 @@
 
   ```python
 
-import pickle
+import pickle # Line 1: This line imports the pickle function
 # load dictionary with genetic code from pickle file
-genetic_code = pickle.load(open("../data/genetic_code.pickle", "rb"))
+genetic_code = pickle.load(open("../data/genetic_code.pickle", "rb")) # Line 2: This line opens the file genetic_code.pickle, which is stored under the variable of genetic_code
 
 # test case: desired amino acid sequence
-# MEFSL[stop]
-test_mRNA = "AUGGAAUUCUCGCUCUGAAGGUAA"
+# MEFSL[stop] # Line 3: This function declares the amino acid string.
+test_mRNA = "AUGGAAUUCUCGCUCUGAAGGUAA" # Line 4: This function declares a sample mRNA stand under the test_mRNA variable.
 
-def get_amino_acids(mRNA):
-    i = 0
-    aa_sequence = []
-    while (i + 3) < len(mRNA):
+def get_amino_acids(mRNA): # Line 5: The get_amino_acid() function is defined for the mRNA variable
+    i = 0 # Line 6: Declares that variable i starts at 0
+    aa_sequence = [] # Line 7: Declares that the amino acid sequence is displayed in brackets
+    while (i + 3) < len(mRNA): # Line
         codon = mRNA[i:(i + 3)]
         aa = genetic_code[codon]
         if aa == "Stop":
