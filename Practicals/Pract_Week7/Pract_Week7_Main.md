@@ -71,4 +71,43 @@ for row in coord_reader:
                 zip_count.append(all_zips.count(current_zip))
 ```
 
-### The previous code follows a similar logic to the code for the first question. The csv module was included to parse through the data, and four lists were ultimately built to represent the zip code, the zip code count, and the zip code longitude and latitude. This was achieved through an overall for loop, with several nested if loops. The first if statement confirmed that the row had at least 3 elements, and the second two if statements determined if the current_zip was already found in every other zip that was observed (all_zips). If the zip was unique, then the zip_code, zip_lat, and zip_long lists were amended. However, regardless, zip_count was always amended to quantify the occurance of each zip code.
+### The previous code follows a similar logic to the code for the first question. The csv module was included to parse through the data, and four lists were ultimately built to represent the zip code, the zip code count, and the zip code longitude and latitude. This was achieved through an overall for loop, with several nested if loops. The first if statement confirmed that the row had at least 3 elements, and the second two if statements determined if the current_zip was already found in every other zip that was observed (all_zips). If the zip was unique, then the zip_code, zip_lat, and zip_long lists were amended. However, regardless, zip_count was always amended to quantify the occurrence of each zip code.
+
+## Question 3 Response:
+
+  ```python
+# Beginning of Question 3
+
+import matplotlib.pyplot as plt
+# let plots be produced within the IPython notebook
+%matplotlib inline
+
+plt.scatter(zip_long, zip_lat, s = zip_count, c = zip_count)
+plt.colorbar()
+
+# only continental us without Alaska
+plt.xlim(-125,-65)
+plt.ylim(23, 50)
+
+# add a few cities for reference (optional)
+ard = dict(arrowstyle="->")
+plt.annotate('Los Angeles', xy = (-118.25, 34.05), 
+               xytext = (-108.25, 34.05), arrowprops = ard)
+plt.annotate('Palo Alto', xy = (-122.1381, 37.4292), 
+               xytext = (-112.1381, 37.4292), arrowprops= ard)
+plt.annotate('Cambridge', xy = (-71.1106, 42.3736), 
+               xytext = (-73.1106, 48.3736), arrowprops= ard)
+plt.annotate('Chicago', xy = (-87.6847, 41.8369), 
+               xytext = (-87.6847, 46.8369), arrowprops= ard)
+plt.annotate('Seattle', xy = (-122.33, 47.61), 
+               xytext = (-116.33, 47.61), arrowprops= ard)
+plt.annotate('Miami', xy = (-80.21, 25.7753), 
+               xytext = (-80.21, 30.7753), arrowprops= ard)
+
+params = plt.gcf()
+plSize = params.get_size_inches()
+params.set_size_inches( (plSize[0] * 3, plSize[1] * 3) )
+
+plt.show()
+```
+### The previous code was copied from GitHub, as instructed. It simply displays a few reference point cities on the scatter plot.
