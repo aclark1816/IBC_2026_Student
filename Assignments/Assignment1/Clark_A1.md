@@ -74,25 +74,31 @@ counts = {}
 # Open and read the data file
 with open(r"C:\Users\Alexei Clark\Documents\IntroCompBiol\IntroBiolComp-2026\Assignment1\Gesquiere2011_data.csv", "r") as x:
     for line in x: # For loop
-        columns = line.split() # Columns are delineated by spaces
+        # Use split() to automatically handle tabs and spaces in the file
+        columns = line.strip().split()
+        
         if columns:
-            ind_id = columns[0] # Establishes first column
+            # Remove any accidental quotes and grab the first column
+            ind_id = columns[0].strip('"\'') 
             
-            # Skips the maleID row, which isn't the purpose of this count
-            if ind_id == "maleID":
+            # Skip the header row ("maleID") or any non-numeric rows safely
+            if ind_id == "maleID" or not ind_id.isdigit():
                 continue
                 
             # Count the occurrences of each ID
             if ind_id in counts:
                 counts[ind_id] += 1 # If a repeated ID occurs, then it is cumulatively added to the count
             else:
-                counts[ind_id] = 1 # The count is stopped
+                counts[ind_id] = 1 # The count is initialized
 
 # Save the results into a new CSV file
-with open(r"C:\Users\Alexei Clark\Documents\IntroCompBiol\IntroBiolComp-2026\Assignment1\Num_samples.csv", "w") as x:
+with open(r"C:\Users\Alexei Clark\Documents\IntroCompBiol\IntroBiolComp-2026\Assignment1\Num_samples.csv", "w", newline="") as x:
     x.write("maleID,sample_count\n")
-    for ind_id, count in counts.items(): # Counts all pieces of data in the counts dictionary for each ind_id
-        x.write(f"{ind_id},{count}\n") # The write function is simply used to format the table with individual ID in column 1 and the counts in column 2
+    
+    # Sort the IDs numerically
+    for ind_id in sorted(counts.keys(), key=int): # Forces python to treat all values as integers
+        count = counts[ind_id]
+        x.write(f"{ind_id},{count}\n") # Writes the individual ID and its count
 ```
 
 ### This script creates an empty dictionary before reading the Gesquiere2011_data.csv file. A for loop is nested within a while loop, which ultimately identifies the column formatting of the initial CSV file and establishes the first column, ind_id. Irrelevant information is skipped over; maleID is not factored into the overall counts, but the ind_id is placed into an if loop to constantly check for repeats. For each repeat identified, 1 is added to the cumulative count value. If no more repeats are discovered, the if loop stops. Finally, a new CSV file (Num_samples.csv) is created to display the MaleID and associated sample counts for each individual.
