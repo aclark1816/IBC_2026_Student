@@ -1,0 +1,108 @@
+A match was found at line 157
+Surrounding Lines (154):   On the generality of intercrosses between individuals of the same
+Surrounding Lines (155):   species.
+Surrounding Lines (156):   Circumstances favourable and unfavourable to Natural Selection,
+Keyword Match (157):   namely, intercrossing, isolation, number of individuals.
+Surrounding Lines (158):   Slow action.
+Surrounding Lines (159):   Extinction caused by Natural Selection.
+Surrounding Lines (160):   Divergence of Character, related to the diversity of inhabitants of
+----------------------------------------
+A match was found at line 2644
+Surrounding Lines (2641): on characters of trifling importance, its power at all ages and on both
+Surrounding Lines (2642): sexes. Sexual Selection. On the generality of intercrosses between
+Surrounding Lines (2643): individuals of the same species. Circumstances favourable and
+Keyword Match (2644): unfavourable to Natural Selection, namely, intercrossing, isolation,
+Surrounding Lines (2645): number of individuals. Slow action. Extinction caused by Natural
+Surrounding Lines (2646): Selection. Divergence of Character, related to the diversity of
+Surrounding Lines (2647): inhabitants of any small area, and to naturalisation. Action of Natural
+----------------------------------------
+A match was found at line 2715
+Surrounding Lines (2712): any given direction mere individual differences, so could Nature, but
+Surrounding Lines (2713): far more easily, from having incomparably longer time at her disposal.
+Surrounding Lines (2714): Nor do I believe that any great physical change, as of climate, or any
+Keyword Match (2715): unusual degree of isolation to check immigration, is actually necessary
+Surrounding Lines (2716): to produce new and unoccupied places for natural selection to fill up
+Surrounding Lines (2717): by modifying and improving some of the varying inhabitants. For as all
+Surrounding Lines (2718): the inhabitants of each country are struggling together with nicely
+----------------------------------------
+A match was found at line 3363
+Surrounding Lines (3360): uniformity of character can be given to their modified offspring,
+Surrounding Lines (3361): solely by natural selection preserving the same favourable variations.
+Surrounding Lines (3362): 
+Keyword Match (3363): Isolation, also, is an important element in the process of natural
+Surrounding Lines (3364): selection. In a confined or isolated area, if not very large, the
+Surrounding Lines (3365): organic and inorganic conditions of life will generally be in a great
+Surrounding Lines (3366): degree uniform; so that natural selection will tend to modify all the
+----------------------------------------
+A match was found at line 3371
+Surrounding Lines (3368): in relation to the same conditions. Intercrosses, also, with the
+Surrounding Lines (3369): individuals of the same species, which otherwise would have inhabited
+Surrounding Lines (3370): the surrounding and differently circumstanced districts, will be
+Keyword Match (3371): prevented. But isolation probably acts more efficiently in checking the
+Surrounding Lines (3372): immigration of better adapted organisms, after any physical change,
+Surrounding Lines (3373): such as of climate or elevation of the land, etc.; and thus new places
+Surrounding Lines (3374): in the natural economy of the country are left open for the old
+----------------------------------------
+A match was found at line 3377
+Surrounding Lines (3374): in the natural economy of the country are left open for the old
+Surrounding Lines (3375): inhabitants to struggle for, and become adapted to, through
+Surrounding Lines (3376): modifications
+Keyword Match (3377): in their structure and constitution. Lastly, isolation, by checking
+Surrounding Lines (3378): immigration and consequently competition, will give time for any new
+Surrounding Lines (3379): variety to be slowly improved; and this may sometimes be of importance
+Surrounding Lines (3380): in the production of new species. If, however, an isolated area be very
+----------------------------------------
+A match was found at line 3401
+Surrounding Lines (3398): ought to make the comparison within equal times; and this we are
+Surrounding Lines (3399): incapable of doing.
+Surrounding Lines (3400): 
+Keyword Match (3401): Although I do not doubt that isolation is of considerable importance in
+Surrounding Lines (3402): the production of new species, on the whole I am inclined to believe
+Surrounding Lines (3403): that largeness of area is of more importance, more especially in the
+Surrounding Lines (3404): production of species, which will prove capable of enduring for a long
+----------------------------------------
+A match was found at line 3418
+Surrounding Lines (3415): to fill them will be more severe, on a large than on a small and
+Surrounding Lines (3416): isolated area. Moreover, great areas, though now continuous, owing to
+Surrounding Lines (3417): oscillations of level, will often have recently existed in a broken
+Keyword Match (3418): condition, so that the good effects of isolation will generally, to a
+Surrounding Lines (3419): certain extent, have concurred. Finally, I conclude that, although
+Surrounding Lines (3420): small isolated areas probably have been in some respects highly
+Surrounding Lines (3421): favourable for the production of new species, yet that the course of
+----------------------------------------
+A match was found at line 9844
+Surrounding Lines (9841): from giving a better chance of the appearance of favourable variations,
+Surrounding Lines (9842): and that severe competition with many already existing forms, would be
+Surrounding Lines (9843): highly favourable, as would be the power of spreading into new
+Keyword Match (9844): territories. A certain amount of isolation, recurring at long intervals
+Surrounding Lines (9845): of time, would probably be also favourable, as before explained. One
+Surrounding Lines (9846): quarter of the world may have been most favourable for the production
+Surrounding Lines (9847): of new and dominant species on the land, and another for those in the
+----------------------------------------
+A match was found at line 10571
+Surrounding Lines (10568): quantity. If, for instance, a number of species, which stand in direct
+Surrounding Lines (10569): competition with each other, migrate in a body into a new and
+Surrounding Lines (10570): afterwards isolated country, they will be little liable to
+Keyword Match (10571): modification; for neither migration nor isolation in themselves can do
+Surrounding Lines (10572): anything. These principles come into play only by bringing organisms
+Surrounding Lines (10573): into new relations with each other, and in a lesser degree with the
+Surrounding Lines (10574): surrounding physical conditions. As we have seen in the last chapter
+----------------------------------------
+A match was found at line 12650
+Surrounding Lines (12647): would, I think, be the only possible one. Yet it might be that some
+Surrounding Lines (12648): very ancient language had altered little, and had given rise to few new
+Surrounding Lines (12649): languages, whilst others (owing to the spreading and subsequent
+Keyword Match (12650): isolation and states of civilisation of the several races, descended
+Surrounding Lines (12651): from a common race) had altered much, and had given rise to many new
+Surrounding Lines (12652): languages and dialects. The various degrees of difference in the
+Surrounding Lines (12653): languages from the same stock, would have to be expressed by groups
+----------------------------------------
+A match was found at line 15409
+Surrounding Lines (15406): 
+Surrounding Lines (15407): Islands, oceanic, 388.
+Surrounding Lines (15408): 
+Keyword Match (15409): Isolation favourable to selection, 104.
+Surrounding Lines (15410): 
+Surrounding Lines (15411): Japan, productions of, 372.
+Surrounding Lines (15412): 
+----------------------------------------

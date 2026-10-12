@@ -1,0 +1,855 @@
+A match was found at line 216
+Surrounding Lines (213): 
+Surrounding Lines (214): CHAPTER 8. HYBRIDISM.
+Surrounding Lines (215): 
+Keyword Match (216):   Distinction between the sterility of first crosses and of hybrids.
+Surrounding Lines (217):   Sterility various in degree, not universal, affected by close
+Surrounding Lines (218):   interbreeding, removed by domestication.
+Surrounding Lines (219):   Laws governing the sterility of hybrids.
+----------------------------------------
+A match was found at line 217
+Surrounding Lines (214): CHAPTER 8. HYBRIDISM.
+Surrounding Lines (215): 
+Surrounding Lines (216):   Distinction between the sterility of first crosses and of hybrids.
+Keyword Match (217):   Sterility various in degree, not universal, affected by close
+Surrounding Lines (218):   interbreeding, removed by domestication.
+Surrounding Lines (219):   Laws governing the sterility of hybrids.
+Surrounding Lines (220):   Sterility not a special endowment, but incidental on other
+----------------------------------------
+A match was found at line 219
+Surrounding Lines (216):   Distinction between the sterility of first crosses and of hybrids.
+Surrounding Lines (217):   Sterility various in degree, not universal, affected by close
+Surrounding Lines (218):   interbreeding, removed by domestication.
+Keyword Match (219):   Laws governing the sterility of hybrids.
+Surrounding Lines (220):   Sterility not a special endowment, but incidental on other
+Surrounding Lines (221):   differences.
+Surrounding Lines (222):   Causes of the sterility of first crosses and of hybrids.
+----------------------------------------
+A match was found at line 220
+Surrounding Lines (217):   Sterility various in degree, not universal, affected by close
+Surrounding Lines (218):   interbreeding, removed by domestication.
+Surrounding Lines (219):   Laws governing the sterility of hybrids.
+Keyword Match (220):   Sterility not a special endowment, but incidental on other
+Surrounding Lines (221):   differences.
+Surrounding Lines (222):   Causes of the sterility of first crosses and of hybrids.
+Surrounding Lines (223):   Parallelism between the effects of changed conditions of life and
+----------------------------------------
+A match was found at line 222
+Surrounding Lines (219):   Laws governing the sterility of hybrids.
+Surrounding Lines (220):   Sterility not a special endowment, but incidental on other
+Surrounding Lines (221):   differences.
+Keyword Match (222):   Causes of the sterility of first crosses and of hybrids.
+Surrounding Lines (223):   Parallelism between the effects of changed conditions of life and
+Surrounding Lines (224):   crossing.
+Surrounding Lines (225):   Fertility of varieties when crossed and of their mongrel offspring
+----------------------------------------
+A match was found at line 559
+Surrounding Lines (556): regularly, and producing offspring not perfectly like their parents or
+Surrounding Lines (557): variable.
+Surrounding Lines (558): 
+Keyword Match (559): Sterility has been said to be the bane of horticulture; but on this
+Surrounding Lines (560): view we owe variability to the same cause which produces sterility; and
+Surrounding Lines (561): variability is the source of all the choicest productions of the
+Surrounding Lines (562): garden. I may add, that as some organisms will breed most freely under
+----------------------------------------
+A match was found at line 560
+Surrounding Lines (557): variable.
+Surrounding Lines (558): 
+Surrounding Lines (559): Sterility has been said to be the bane of horticulture; but on this
+Keyword Match (560): view we owe variability to the same cause which produces sterility; and
+Surrounding Lines (561): variability is the source of all the choicest productions of the
+Surrounding Lines (562): garden. I may add, that as some organisms will breed most freely under
+Surrounding Lines (563): the most unnatural conditions (for instance, the rabbit and ferret kept
+----------------------------------------
+A match was found at line 1068
+Surrounding Lines (1065): difficult, perhaps impossible, to bring forward one case of the hybrid
+Surrounding Lines (1066): offspring of two animals _clearly distinct_ being themselves perfectly
+Surrounding Lines (1067): fertile. Some authors believe that long-continued domestication
+Keyword Match (1068): eliminates this strong tendency to sterility: from the history of the
+Surrounding Lines (1069): dog I think there is some probability in this hypothesis, if applied to
+Surrounding Lines (1070): species closely related together, though it is unsupported by a single
+Surrounding Lines (1071): experiment. But to extend the hypothesis so far as to suppose that
+----------------------------------------
+A match was found at line 1579
+Surrounding Lines (1576): temporarily propagated by cuttings, buds, etc., the importance of the
+Surrounding Lines (1577): crossing both of distinct species and of varieties is immense; for the
+Surrounding Lines (1578): cultivator here quite disregards the extreme variability both of
+Keyword Match (1579): hybrids and mongrels, and the frequent sterility of hybrids; but the
+Surrounding Lines (1580): cases of plants not propagated by seed are of little importance to us,
+Surrounding Lines (1581): for their endurance is only temporary. Over all these causes of Change
+Surrounding Lines (1582): I am convinced that the accumulative action of Selection, whether
+----------------------------------------
+A match was found at line 7476
+Surrounding Lines (7473): HYBRIDISM.
+Surrounding Lines (7474): 
+Surrounding Lines (7475): 
+Keyword Match (7476): Distinction between the sterility of first crosses and of hybrids.
+Surrounding Lines (7477): Sterility various in degree, not universal, affected by close
+Surrounding Lines (7478): interbreeding, removed by domestication. Laws governing the sterility
+Surrounding Lines (7479): of hybrids. Sterility not a special endowment, but incidental on other
+----------------------------------------
+A match was found at line 7477
+Surrounding Lines (7474): 
+Surrounding Lines (7475): 
+Surrounding Lines (7476): Distinction between the sterility of first crosses and of hybrids.
+Keyword Match (7477): Sterility various in degree, not universal, affected by close
+Surrounding Lines (7478): interbreeding, removed by domestication. Laws governing the sterility
+Surrounding Lines (7479): of hybrids. Sterility not a special endowment, but incidental on other
+Surrounding Lines (7480): differences. Causes of the sterility of first crosses and of hybrids.
+----------------------------------------
+A match was found at line 7478
+Surrounding Lines (7475): 
+Surrounding Lines (7476): Distinction between the sterility of first crosses and of hybrids.
+Surrounding Lines (7477): Sterility various in degree, not universal, affected by close
+Keyword Match (7478): interbreeding, removed by domestication. Laws governing the sterility
+Surrounding Lines (7479): of hybrids. Sterility not a special endowment, but incidental on other
+Surrounding Lines (7480): differences. Causes of the sterility of first crosses and of hybrids.
+Surrounding Lines (7481): Parallelism between the effects of changed conditions of life and
+----------------------------------------
+A match was found at line 7479
+Surrounding Lines (7476): Distinction between the sterility of first crosses and of hybrids.
+Surrounding Lines (7477): Sterility various in degree, not universal, affected by close
+Surrounding Lines (7478): interbreeding, removed by domestication. Laws governing the sterility
+Keyword Match (7479): of hybrids. Sterility not a special endowment, but incidental on other
+Surrounding Lines (7480): differences. Causes of the sterility of first crosses and of hybrids.
+Surrounding Lines (7481): Parallelism between the effects of changed conditions of life and
+Surrounding Lines (7482): crossing. Fertility of varieties when crossed and of their mongrel
+----------------------------------------
+A match was found at line 7480
+Surrounding Lines (7477): Sterility various in degree, not universal, affected by close
+Surrounding Lines (7478): interbreeding, removed by domestication. Laws governing the sterility
+Surrounding Lines (7479): of hybrids. Sterility not a special endowment, but incidental on other
+Keyword Match (7480): differences. Causes of the sterility of first crosses and of hybrids.
+Surrounding Lines (7481): Parallelism between the effects of changed conditions of life and
+Surrounding Lines (7482): crossing. Fertility of varieties when crossed and of their mongrel
+Surrounding Lines (7483): offspring not universal. Hybrids and mongrels compared independently of
+----------------------------------------
+A match was found at line 7489
+Surrounding Lines (7486): 
+Surrounding Lines (7487): The view generally entertained by naturalists is that species, when
+Surrounding Lines (7488): intercrossed, have been specially endowed with the quality of
+Keyword Match (7489): sterility, in order to prevent the confusion of all organic forms. This
+Surrounding Lines (7490): view certainly seems at first probable, for species within the same
+Surrounding Lines (7491): country could hardly have kept distinct had they been capable of
+Surrounding Lines (7492): crossing freely. The importance of the fact that hybrids are very
+----------------------------------------
+A match was found at line 7495
+Surrounding Lines (7492): crossing freely. The importance of the fact that hybrids are very
+Surrounding Lines (7493): generally sterile, has, I think, been much underrated by some late
+Surrounding Lines (7494): writers. On the theory of natural selection the case is especially
+Keyword Match (7495): important, inasmuch as the sterility of hybrids could not possibly be
+Surrounding Lines (7496): of any advantage to them, and therefore could not have been acquired by
+Surrounding Lines (7497): the continued preservation of successive profitable degrees of
+Surrounding Lines (7498): sterility. I hope, however, to be able to show that sterility is not a
+----------------------------------------
+A match was found at line 7498
+Surrounding Lines (7495): important, inasmuch as the sterility of hybrids could not possibly be
+Surrounding Lines (7496): of any advantage to them, and therefore could not have been acquired by
+Surrounding Lines (7497): the continued preservation of successive profitable degrees of
+Keyword Match (7498): sterility. I hope, however, to be able to show that sterility is not a
+Surrounding Lines (7499): specially acquired or endowed quality, but is incidental on other
+Surrounding Lines (7500): acquired differences.
+Surrounding Lines (7501): 
+----------------------------------------
+A match was found at line 7504
+Surrounding Lines (7501): 
+Surrounding Lines (7502): In treating this subject, two classes of facts, to a large extent
+Surrounding Lines (7503): fundamentally different, have generally been confounded together;
+Keyword Match (7504): namely, the sterility of two
+Surrounding Lines (7505): species when first crossed, and the sterility of the hybrids produced
+Surrounding Lines (7506): from them.
+Surrounding Lines (7507): 
+----------------------------------------
+A match was found at line 7505
+Surrounding Lines (7502): In treating this subject, two classes of facts, to a large extent
+Surrounding Lines (7503): fundamentally different, have generally been confounded together;
+Surrounding Lines (7504): namely, the sterility of two
+Keyword Match (7505): species when first crossed, and the sterility of the hybrids produced
+Surrounding Lines (7506): from them.
+Surrounding Lines (7507): 
+Surrounding Lines (7508): Pure species have of course their organs of reproduction in a perfect
+----------------------------------------
+A match was found at line 7517
+Surrounding Lines (7514): case the two sexual elements which go to form the embryo are perfect;
+Surrounding Lines (7515): in the second case they are either not at all developed, or are
+Surrounding Lines (7516): imperfectly developed. This distinction is important, when the cause of
+Keyword Match (7517): the sterility, which is common to the two cases, has to be considered.
+Surrounding Lines (7518): The distinction has probably been slurred over, owing to the sterility
+Surrounding Lines (7519): in both cases being looked on as a special endowment, beyond the
+Surrounding Lines (7520): province of our reasoning powers.
+----------------------------------------
+A match was found at line 7518
+Surrounding Lines (7515): in the second case they are either not at all developed, or are
+Surrounding Lines (7516): imperfectly developed. This distinction is important, when the cause of
+Surrounding Lines (7517): the sterility, which is common to the two cases, has to be considered.
+Keyword Match (7518): The distinction has probably been slurred over, owing to the sterility
+Surrounding Lines (7519): in both cases being looked on as a special endowment, beyond the
+Surrounding Lines (7520): province of our reasoning powers.
+Surrounding Lines (7521): 
+----------------------------------------
+A match was found at line 7525
+Surrounding Lines (7522): The fertility of varieties, that is of the forms known or believed to
+Surrounding Lines (7523): have descended from common parents, when intercrossed, and likewise the
+Surrounding Lines (7524): fertility of their mongrel offspring, is, on my theory, of equal
+Keyword Match (7525): importance with the sterility of species; for it seems to make a broad
+Surrounding Lines (7526): and clear distinction between varieties and species.
+Surrounding Lines (7527): 
+Surrounding Lines (7528): First, for the sterility of species when crossed and of their hybrid
+----------------------------------------
+A match was found at line 7528
+Surrounding Lines (7525): importance with the sterility of species; for it seems to make a broad
+Surrounding Lines (7526): and clear distinction between varieties and species.
+Surrounding Lines (7527): 
+Keyword Match (7528): First, for the sterility of species when crossed and of their hybrid
+Surrounding Lines (7529): offspring. It is impossible to study the several memoirs and works of
+Surrounding Lines (7530): those two conscientious and admirable observers, Kölreuter and Gärtner,
+Surrounding Lines (7531): who almost devoted their lives to this subject, without being deeply
+----------------------------------------
+A match was found at line 7532
+Surrounding Lines (7529): offspring. It is impossible to study the several memoirs and works of
+Surrounding Lines (7530): those two conscientious and admirable observers, Kölreuter and Gärtner,
+Surrounding Lines (7531): who almost devoted their lives to this subject, without being deeply
+Keyword Match (7532): impressed with the high generality of some degree of sterility.
+Surrounding Lines (7533): Kölreuter makes the rule universal; but then he cuts the knot, for in
+Surrounding Lines (7534): ten cases in which he found two forms, considered by most authors as
+Surrounding Lines (7535): distinct species, quite fertile together, he
+----------------------------------------
+A match was found at line 7540
+Surrounding Lines (7537): equally universal; and he disputes the entire fertility of Kölreuter’s
+Surrounding Lines (7538): ten cases. But in these and in many other cases, Gärtner is obliged
+Surrounding Lines (7539): carefully to count the seeds, in order to show that there is any degree
+Keyword Match (7540): of sterility. He always compares the maximum number of seeds produced
+Surrounding Lines (7541): by two species when crossed and by their hybrid offspring, with the
+Surrounding Lines (7542): average number produced by both pure parent-species in a state of
+Surrounding Lines (7543): nature. But a serious cause of error seems to me to be here introduced:
+----------------------------------------
+A match was found at line 7565
+Surrounding Lines (7562): intercrossed, as Gärtner believes.
+Surrounding Lines (7563): 
+Surrounding Lines (7564): 
+Keyword Match (7565): It is certain, on the one hand, that the sterility of various species
+Surrounding Lines (7566): when crossed is so different in degree and graduates away so
+Surrounding Lines (7567): insensibly, and, on the other hand, that the fertility of pure species
+Surrounding Lines (7568): is so easily affected by various circumstances, that for all practical
+----------------------------------------
+A match was found at line 7570
+Surrounding Lines (7567): insensibly, and, on the other hand, that the fertility of pure species
+Surrounding Lines (7568): is so easily affected by various circumstances, that for all practical
+Surrounding Lines (7569): purposes it is most difficult to say where perfect fertility ends and
+Keyword Match (7570): sterility begins. I think no better evidence of this can be required
+Surrounding Lines (7571): than that the two most experienced observers who have ever lived,
+Surrounding Lines (7572): namely, Kölreuter and Gärtner, should have arrived at diametrically
+Surrounding Lines (7573): opposite conclusions in regard to the very same species. It is also
+----------------------------------------
+A match was found at line 7579
+Surrounding Lines (7576): whether certain doubtful forms should be ranked as species or
+Surrounding Lines (7577): varieties, with the evidence from fertility adduced by different
+Surrounding Lines (7578): hybridisers, or by the same author, from experiments made during
+Keyword Match (7579): different years. It can thus be shown that neither sterility nor
+Surrounding Lines (7580): fertility affords any clear distinction between species and varieties;
+Surrounding Lines (7581): but that the evidence from this source graduates away, and is doubtful
+Surrounding Lines (7582): in the same degree as is the evidence derived from other constitutional
+----------------------------------------
+A match was found at line 7585
+Surrounding Lines (7582): in the same degree as is the evidence derived from other constitutional
+Surrounding Lines (7583): and structural differences.
+Surrounding Lines (7584): 
+Keyword Match (7585): In regard to the sterility of hybrids in successive generations; though
+Surrounding Lines (7586): Gärtner was enabled to rear some hybrids, carefully guarding them from
+Surrounding Lines (7587): a cross with either pure parent, for six or seven, and in one case for
+Surrounding Lines (7588): ten generations, yet he asserts positively that their fertility never
+----------------------------------------
+A match was found at line 7627
+Surrounding Lines (7624): hybridiser, namely, the Honourable and
+Surrounding Lines (7625): Reverend W. Herbert. He is as emphatic in his conclusion that some
+Surrounding Lines (7626): hybrids are perfectly fertile—as fertile as the pure parent-species—as
+Keyword Match (7627): are Kölreuter and Gärtner that some degree of sterility between
+Surrounding Lines (7628): distinct species is a universal law of nature. He experimentised on
+Surrounding Lines (7629): some of the very same species as did Gärtner. The difference in their
+Surrounding Lines (7630): results may, I think, be in part accounted for by Herbert’s great
+----------------------------------------
+A match was found at line 7718
+Surrounding Lines (7715): contrary, brothers and sisters have usually been crossed in each
+Surrounding Lines (7716): successive generation, in opposition to the constantly repeated
+Surrounding Lines (7717): admonition of every breeder. And in this case, it is not at all
+Keyword Match (7718): surprising that the inherent sterility in the hybrids should have gone
+Surrounding Lines (7719): on increasing. If we were to act thus, and pair brothers and sisters in
+Surrounding Lines (7720): the case of any pure animal, which from any cause had the least
+Surrounding Lines (7721): tendency to sterility, the breed would assuredly be lost in a very few
+----------------------------------------
+A match was found at line 7721
+Surrounding Lines (7718): surprising that the inherent sterility in the hybrids should have gone
+Surrounding Lines (7719): on increasing. If we were to act thus, and pair brothers and sisters in
+Surrounding Lines (7720): the case of any pure animal, which from any cause had the least
+Keyword Match (7721): tendency to sterility, the breed would assuredly be lost in a very few
+Surrounding Lines (7722): generations.
+Surrounding Lines (7723): 
+Surrounding Lines (7724): Although I do not know of any thoroughly well-authenticated cases of
+----------------------------------------
+A match was found at line 7759
+Surrounding Lines (7756): together; but from facts communicated to me by Mr. Blyth, I think they
+Surrounding Lines (7757): must be considered as distinct species. On this view of the origin of
+Surrounding Lines (7758): many of our domestic animals, we must either give up the belief of the
+Keyword Match (7759): almost universal sterility of distinct species of animals when crossed;
+Surrounding Lines (7760): or we must look at sterility, not as an indelible characteristic, but
+Surrounding Lines (7761): as one capable of being removed by domestication.
+Surrounding Lines (7762): 
+----------------------------------------
+A match was found at line 7760
+Surrounding Lines (7757): must be considered as distinct species. On this view of the origin of
+Surrounding Lines (7758): many of our domestic animals, we must either give up the belief of the
+Surrounding Lines (7759): almost universal sterility of distinct species of animals when crossed;
+Keyword Match (7760): or we must look at sterility, not as an indelible characteristic, but
+Surrounding Lines (7761): as one capable of being removed by domestication.
+Surrounding Lines (7762): 
+Surrounding Lines (7763): Finally, looking to all the ascertained facts on the intercrossing of
+----------------------------------------
+A match was found at line 7764
+Surrounding Lines (7761): as one capable of being removed by domestication.
+Surrounding Lines (7762): 
+Surrounding Lines (7763): Finally, looking to all the ascertained facts on the intercrossing of
+Keyword Match (7764): plants and animals, it may be concluded that some degree of sterility,
+Surrounding Lines (7765): both in first crosses and in hybrids,is an extremely general result;
+Surrounding Lines (7766): but that it cannot, under our present state of knowledge, be considered
+Surrounding Lines (7767): as absolutely universal.
+----------------------------------------
+A match was found at line 7769
+Surrounding Lines (7766): but that it cannot, under our present state of knowledge, be considered
+Surrounding Lines (7767): as absolutely universal.
+Surrounding Lines (7768): 
+Keyword Match (7769): _Laws governing the Sterility of first Crosses and of Hybrids_.—We will
+Surrounding Lines (7770): now consider a little more in detail the
+Surrounding Lines (7771): circumstances and rules governing the sterility of first crosses and of
+Surrounding Lines (7772): hybrids. Our chief object will be to see whether or not the rules
+----------------------------------------
+A match was found at line 7771
+Surrounding Lines (7768): 
+Surrounding Lines (7769): _Laws governing the Sterility of first Crosses and of Hybrids_.—We will
+Surrounding Lines (7770): now consider a little more in detail the
+Keyword Match (7771): circumstances and rules governing the sterility of first crosses and of
+Surrounding Lines (7772): hybrids. Our chief object will be to see whether or not the rules
+Surrounding Lines (7773): indicate that species have specially been endowed with this quality, in
+Surrounding Lines (7774): order to prevent their crossing and blending together in utter
+----------------------------------------
+A match was found at line 7801
+Surrounding Lines (7798): parent-species causing the flower of the hybrid to wither earlier than
+Surrounding Lines (7799): it otherwise would have done; and the early withering of the flower is
+Surrounding Lines (7800): well known to be a sign
+Keyword Match (7801): of incipient fertilisation. From this extreme degree of sterility we
+Surrounding Lines (7802): have self-fertilised hybrids producing a greater and greater number of
+Surrounding Lines (7803): seeds up to perfect fertility.
+Surrounding Lines (7804): 
+----------------------------------------
+A match was found at line 7808
+Surrounding Lines (7805): Hybrids from two species which are very difficult to cross, and which
+Surrounding Lines (7806): rarely produce any offspring, are generally very sterile; but the
+Surrounding Lines (7807): parallelism between the difficulty of making a first cross, and the
+Keyword Match (7808): sterility of the hybrids thus produced—two classes of facts which are
+Surrounding Lines (7809): generally confounded together—is by no means strict. There are many
+Surrounding Lines (7810): cases, in which two pure species can be united with unusual facility,
+Surrounding Lines (7811): and produce numerous hybrid-offspring, yet these hybrids are remarkably
+----------------------------------------
+A match was found at line 7927
+Surrounding Lines (7924): fertility.
+Surrounding Lines (7925): 
+Surrounding Lines (7926): Now do these complex and singular rules indicate that species have been
+Keyword Match (7927): endowed with sterility simply to prevent their becoming confounded in
+Surrounding Lines (7928): nature? I think not. For why should the sterility be so extremely
+Surrounding Lines (7929): different in degree, when various species are crossed, all of which we
+Surrounding Lines (7930): must suppose it would be equally important to keep from blending
+----------------------------------------
+A match was found at line 7928
+Surrounding Lines (7925): 
+Surrounding Lines (7926): Now do these complex and singular rules indicate that species have been
+Surrounding Lines (7927): endowed with sterility simply to prevent their becoming confounded in
+Keyword Match (7928): nature? I think not. For why should the sterility be so extremely
+Surrounding Lines (7929): different in degree, when various species are crossed, all of which we
+Surrounding Lines (7930): must suppose it would be equally important to keep from blending
+Surrounding Lines (7931): together? Why should the degree of sterility be innately variable in
+----------------------------------------
+A match was found at line 7931
+Surrounding Lines (7928): nature? I think not. For why should the sterility be so extremely
+Surrounding Lines (7929): different in degree, when various species are crossed, all of which we
+Surrounding Lines (7930): must suppose it would be equally important to keep from blending
+Keyword Match (7931): together? Why should the degree of sterility be innately variable in
+Surrounding Lines (7932): the individuals of the same species? Why should some species cross with
+Surrounding Lines (7933): facility, and yet produce very sterile hybrids; and other species cross
+Surrounding Lines (7934): with extreme difficulty, and yet produce fairly fertile hybrids? Why
+----------------------------------------
+A match was found at line 7939
+Surrounding Lines (7936): reciprocal cross between the same two species? Why, it may even be
+Surrounding Lines (7937): asked, has the production of hybrids been permitted? to grant to
+Surrounding Lines (7938): species the special power of producing hybrids, and then to stop their
+Keyword Match (7939): further propagation by different degrees of sterility, not strictly
+Surrounding Lines (7940): related to the facility of the first union between their parents, seems
+Surrounding Lines (7941): to be a strange arrangement.
+Surrounding Lines (7942): 
+----------------------------------------
+A match was found at line 7944
+Surrounding Lines (7941): to be a strange arrangement.
+Surrounding Lines (7942): 
+Surrounding Lines (7943): The foregoing rules and facts, on the other hand, appear to me clearly
+Keyword Match (7944): to indicate that the sterility both of first crosses and of hybrids is
+Surrounding Lines (7945): simply incidental or dependent on unknown differences, chiefly in the
+Surrounding Lines (7946): reproductive systems, of the species which are crossed. The differences
+Surrounding Lines (7947): being of so peculiar and limited a nature,
+----------------------------------------
+A match was found at line 7951
+Surrounding Lines (7948): that, in reciprocal crosses between two species the male sexual element
+Surrounding Lines (7949): of the one will often freely act on the female sexual element of the
+Surrounding Lines (7950): other, but not in a reversed direction. It will be advisable to explain
+Keyword Match (7951): a little more fully by an example what I mean by sterility being
+Surrounding Lines (7952): incidental on other differences, and not a specially endowed quality.
+Surrounding Lines (7953): As the capacity of one plant to be grafted or budded on another is so
+Surrounding Lines (7954): entirely unimportant for its welfare in a state of nature, I presume
+----------------------------------------
+A match was found at line 7988
+Surrounding Lines (7985): be grafted on the currant, whereas the currant will take, though with
+Surrounding Lines (7986): difficulty, on the gooseberry.
+Surrounding Lines (7987): 
+Keyword Match (7988): We have seen that the sterility of hybrids, which have their
+Surrounding Lines (7989): reproductive organs in an imperfect condition, is a very different case
+Surrounding Lines (7990): from the difficulty of uniting two pure species, which have their
+Surrounding Lines (7991): reproductive organs perfect; yet these two distinct cases run to a
+----------------------------------------
+A match was found at line 8021
+Surrounding Lines (8018): difficulty is as important for the endurance and stability of specific
+Surrounding Lines (8019): forms, as in the case of grafting it is unimportant for their welfare.
+Surrounding Lines (8020): 
+Keyword Match (8021): _Causes of the Sterility of first Crosses and of Hybrids_.—We may now
+Surrounding Lines (8022): look a little closer at the probable causes of the sterility of first
+Surrounding Lines (8023): crosses and of hybrids. These two cases are fundamentally different,
+Surrounding Lines (8024): for, as just remarked, in the union of two pure species the male and
+----------------------------------------
+A match was found at line 8022
+Surrounding Lines (8019): forms, as in the case of grafting it is unimportant for their welfare.
+Surrounding Lines (8020): 
+Surrounding Lines (8021): _Causes of the Sterility of first Crosses and of Hybrids_.—We may now
+Keyword Match (8022): look a little closer at the probable causes of the sterility of first
+Surrounding Lines (8023): crosses and of hybrids. These two cases are fundamentally different,
+Surrounding Lines (8024): for, as just remarked, in the union of two pure species the male and
+Surrounding Lines (8025): female sexual elements are perfect, whereas in hybrids they are
+----------------------------------------
+A match was found at line 8042
+Surrounding Lines (8039): This latter alternative has not been sufficiently attended to; but I
+Surrounding Lines (8040): believe, from observations communicated to me by Mr. Hewitt, who has
+Surrounding Lines (8041): had great experience in hybridising gallinaceous birds, that the early
+Keyword Match (8042): death of the embryo is a very frequent cause of sterility in first
+Surrounding Lines (8043): crosses. I was at first very unwilling to believe in this view; as
+Surrounding Lines (8044): hybrids, when once born, are generally healthy and long-lived, as we
+Surrounding Lines (8045): see in the case of the common mule. Hybrids, however, are differently
+----------------------------------------
+A match was found at line 8056
+Surrounding Lines (8053): period; more especially as all very young beings seem eminently
+Surrounding Lines (8054): sensitive to injurious or unnatural conditions of life.
+Surrounding Lines (8055): 
+Keyword Match (8056): In regard to the sterility of hybrids, in which the sexual elements are
+Surrounding Lines (8057): imperfectly developed, the case is very different. I have more than
+Surrounding Lines (8058): once alluded to a large body of facts, which I have collected, showing
+Surrounding Lines (8059): that when animals and plants are removed from their natural conditions,
+----------------------------------------
+A match was found at line 8062
+Surrounding Lines (8059): that when animals and plants are removed from their natural conditions,
+Surrounding Lines (8060): they are extremely liable to have their reproductive systems seriously
+Surrounding Lines (8061): affected. This, in fact, is
+Keyword Match (8062): the great bar to the domestication of animals. Between the sterility
+Surrounding Lines (8063): thus superinduced and that of hybrids, there are many points of
+Surrounding Lines (8064): similarity. In both cases the sterility is independent of general
+Surrounding Lines (8065): health, and is often accompanied by excess of size or great luxuriance.
+----------------------------------------
+A match was found at line 8064
+Surrounding Lines (8061): affected. This, in fact, is
+Surrounding Lines (8062): the great bar to the domestication of animals. Between the sterility
+Surrounding Lines (8063): thus superinduced and that of hybrids, there are many points of
+Keyword Match (8064): similarity. In both cases the sterility is independent of general
+Surrounding Lines (8065): health, and is often accompanied by excess of size or great luxuriance.
+Surrounding Lines (8066): In both cases, the sterility occurs in various degrees; in both, the
+Surrounding Lines (8067): male element is the most liable to be affected; but sometimes the
+----------------------------------------
+A match was found at line 8066
+Surrounding Lines (8063): thus superinduced and that of hybrids, there are many points of
+Surrounding Lines (8064): similarity. In both cases the sterility is independent of general
+Surrounding Lines (8065): health, and is often accompanied by excess of size or great luxuriance.
+Keyword Match (8066): In both cases, the sterility occurs in various degrees; in both, the
+Surrounding Lines (8067): male element is the most liable to be affected; but sometimes the
+Surrounding Lines (8068): female more than the male. In both, the tendency goes to a certain
+Surrounding Lines (8069): extent with systematic affinity, for whole groups of animals and plants
+----------------------------------------
+A match was found at line 8081
+Surrounding Lines (8078): Lastly, when organic beings are placed during several generations under
+Surrounding Lines (8079): conditions not natural to them, they are extremely liable to vary,
+Surrounding Lines (8080): which is due, as I believe, to their reproductive systems having been
+Keyword Match (8081): specially affected, though in a lesser degree than when sterility
+Surrounding Lines (8082): ensues. So it is with hybrids, for hybrids in successive generations
+Surrounding Lines (8083): are eminently liable to vary, as every experimentalist has observed.
+Surrounding Lines (8084): 
+----------------------------------------
+A match was found at line 8088
+Surrounding Lines (8085): Thus we see that when organic beings are placed under new and unnatural
+Surrounding Lines (8086): conditions, and when hybrids are produced by the unnatural crossing of
+Surrounding Lines (8087): two species, the reproductive system, independently of the general
+Keyword Match (8088): state of health, is affected by sterility in a very similar manner. In
+Surrounding Lines (8089): the one case, the conditions of life have been disturbed, though often
+Surrounding Lines (8090): in so slight a degree as to
+Surrounding Lines (8091): be inappreciable by us; in the other case, or that of hybrids, the
+----------------------------------------
+A match was found at line 8100
+Surrounding Lines (8097): of the different parts and organs one to another, or to the conditions
+Surrounding Lines (8098): of life. When hybrids are able to breed _inter se_, they transmit to
+Surrounding Lines (8099): their offspring from generation to generation the same compounded
+Keyword Match (8100): organisation, and hence we need not be surprised that their sterility,
+Surrounding Lines (8101): though in some degree variable, rarely diminishes.
+Surrounding Lines (8102): 
+Surrounding Lines (8103): It must, however, be confessed that we cannot understand, excepting on
+----------------------------------------
+A match was found at line 8104
+Surrounding Lines (8101): though in some degree variable, rarely diminishes.
+Surrounding Lines (8102): 
+Surrounding Lines (8103): It must, however, be confessed that we cannot understand, excepting on
+Keyword Match (8104): vague hypotheses, several facts with respect to the sterility of
+Surrounding Lines (8105): hybrids; for instance, the unequal fertility of hybrids produced from
+Surrounding Lines (8106): reciprocal crosses; or the increased sterility in those hybrids which
+Surrounding Lines (8107): occasionally and exceptionally resemble closely either pure parent. Nor
+----------------------------------------
+A match was found at line 8106
+Surrounding Lines (8103): It must, however, be confessed that we cannot understand, excepting on
+Surrounding Lines (8104): vague hypotheses, several facts with respect to the sterility of
+Surrounding Lines (8105): hybrids; for instance, the unequal fertility of hybrids produced from
+Keyword Match (8106): reciprocal crosses; or the increased sterility in those hybrids which
+Surrounding Lines (8107): occasionally and exceptionally resemble closely either pure parent. Nor
+Surrounding Lines (8108): do I pretend that the foregoing remarks go to the root of the matter:
+Surrounding Lines (8109): no explanation is offered why an organism, when placed under unnatural
+----------------------------------------
+A match was found at line 8111
+Surrounding Lines (8108): do I pretend that the foregoing remarks go to the root of the matter:
+Surrounding Lines (8109): no explanation is offered why an organism, when placed under unnatural
+Surrounding Lines (8110): conditions, is rendered sterile. All that I have attempted to show, is
+Keyword Match (8111): that in two cases, in some respects allied, sterility is the common
+Surrounding Lines (8112): result,—in the one case from the conditions of life having been
+Surrounding Lines (8113): disturbed, in the other case from the organisation having been
+Surrounding Lines (8114): disturbed by two organisations having been compounded into one.
+----------------------------------------
+A match was found at line 8133
+Surrounding Lines (8130): hermaphrodites; and that close interbreeding continued during several
+Surrounding Lines (8131): generations between the nearest relations, especially if these be kept
+Surrounding Lines (8132): under the same conditions of life, always induces weakness and
+Keyword Match (8133): sterility in the progeny.
+Surrounding Lines (8134): 
+Surrounding Lines (8135): Hence it seems that, on the one hand, slight changes in the conditions
+Surrounding Lines (8136): of life benefit all organic beings, and on the other hand, that slight
+----------------------------------------
+A match was found at line 8182
+Surrounding Lines (8179): less remarkable than
+Surrounding Lines (8180): at first appears. It can, in the first place, be clearly shown that
+Surrounding Lines (8181): mere external dissimilarity between two species does not determine
+Keyword Match (8182): their greater or lesser degree of sterility when crossed; and we may
+Surrounding Lines (8183): apply the same rule to domestic varieties. In the second place, some
+Surrounding Lines (8184): eminent naturalists believe that a long course of domestication tends
+Surrounding Lines (8185): to eliminate sterility in the successive generations of hybrids, which
+----------------------------------------
+A match was found at line 8185
+Surrounding Lines (8182): their greater or lesser degree of sterility when crossed; and we may
+Surrounding Lines (8183): apply the same rule to domestic varieties. In the second place, some
+Surrounding Lines (8184): eminent naturalists believe that a long course of domestication tends
+Keyword Match (8185): to eliminate sterility in the successive generations of hybrids, which
+Surrounding Lines (8186): were at first only slightly sterile; and if this be so, we surely ought
+Surrounding Lines (8187): not to expect to find sterility both appearing and disappearing under
+Surrounding Lines (8188): nearly the same conditions of life. Lastly, and this seems to me by far
+----------------------------------------
+A match was found at line 8187
+Surrounding Lines (8184): eminent naturalists believe that a long course of domestication tends
+Surrounding Lines (8185): to eliminate sterility in the successive generations of hybrids, which
+Surrounding Lines (8186): were at first only slightly sterile; and if this be so, we surely ought
+Keyword Match (8187): not to expect to find sterility both appearing and disappearing under
+Surrounding Lines (8188): nearly the same conditions of life. Lastly, and this seems to me by far
+Surrounding Lines (8189): the most important consideration, new races of animals and plants are
+Surrounding Lines (8190): produced under domestication by man’s methodical and unconscious power
+----------------------------------------
+A match was found at line 8206
+Surrounding Lines (8203): 
+Surrounding Lines (8204): I have as yet spoken as if the varieties of the same species were
+Surrounding Lines (8205): invariably fertile when intercrossed. But it seems to me impossible to
+Keyword Match (8206): resist the evidence of the existence of a certain amount of sterility
+Surrounding Lines (8207): in the few following cases, which I will briefly abstract. The evidence
+Surrounding Lines (8208): is at least as good as that from which we believe
+Surrounding Lines (8209): in the sterility of a multitude of species. The evidence is, also,
+----------------------------------------
+A match was found at line 8209
+Surrounding Lines (8206): resist the evidence of the existence of a certain amount of sterility
+Surrounding Lines (8207): in the few following cases, which I will briefly abstract. The evidence
+Surrounding Lines (8208): is at least as good as that from which we believe
+Keyword Match (8209): in the sterility of a multitude of species. The evidence is, also,
+Surrounding Lines (8210): derived from hostile witnesses, who in all other cases consider
+Surrounding Lines (8211): fertility and sterility as safe criterions of specific distinction.
+Surrounding Lines (8212): Gärtner kept during several years a dwarf kind of maize with yellow
+----------------------------------------
+A match was found at line 8211
+Surrounding Lines (8208): is at least as good as that from which we believe
+Surrounding Lines (8209): in the sterility of a multitude of species. The evidence is, also,
+Surrounding Lines (8210): derived from hostile witnesses, who in all other cases consider
+Keyword Match (8211): fertility and sterility as safe criterions of specific distinction.
+Surrounding Lines (8212): Gärtner kept during several years a dwarf kind of maize with yellow
+Surrounding Lines (8213): seeds, and a tall variety with red seeds, growing near each other in
+Surrounding Lines (8214): his garden; and although these plants have separated sexes, they never
+----------------------------------------
+A match was found at line 8274
+Surrounding Lines (8271): to form a fundamental distinction between varieties and species. The
+Surrounding Lines (8272): general fertility of varieties does not seem to me sufficient to
+Surrounding Lines (8273): overthrow the view which I have taken with respect to the very general,
+Keyword Match (8274): but not invariable, sterility of first crosses and of hybrids, namely,
+Surrounding Lines (8275): that it is not a special endowment, but is incidental on slowly
+Surrounding Lines (8276): acquired modifications, more especially in the reproductive systems of
+Surrounding Lines (8277): the forms which are crossed.
+----------------------------------------
+A match was found at line 8386
+Surrounding Lines (8383): in the union of individuals of the same variety, or of different
+Surrounding Lines (8384): varieties, or of distinct species.
+Surrounding Lines (8385): 
+Keyword Match (8386): Laying aside the question of fertility and sterility, in all other
+Surrounding Lines (8387): respects there seems to be a general and close similarity in the
+Surrounding Lines (8388): offspring of crossed species, and of crossed varieties. If we look at
+Surrounding Lines (8389): species as having been specially created, and at varieties as having
+----------------------------------------
+A match was found at line 8396
+Surrounding Lines (8393): 
+Surrounding Lines (8394): _Summary of Chapter_.—First crosses between forms sufficiently distinct
+Surrounding Lines (8395): to be ranked as species, and their hybrids, are very generally, but not
+Keyword Match (8396): universally, sterile. The sterility is of all degrees, and is often so
+Surrounding Lines (8397): slight that the two most careful experimentalists who have ever lived,
+Surrounding Lines (8398): have come to diametrically opposite conclusions in ranking forms by
+Surrounding Lines (8399): this test. The sterility is innately variable in individuals of the
+----------------------------------------
+A match was found at line 8399
+Surrounding Lines (8396): universally, sterile. The sterility is of all degrees, and is often so
+Surrounding Lines (8397): slight that the two most careful experimentalists who have ever lived,
+Surrounding Lines (8398): have come to diametrically opposite conclusions in ranking forms by
+Keyword Match (8399): this test. The sterility is innately variable in individuals of the
+Surrounding Lines (8400): same species, and is eminently susceptible of favourable and
+Surrounding Lines (8401): unfavourable conditions. The degree of sterility does not strictly
+Surrounding Lines (8402): follow systematic affinity, but is governed by several curious and
+----------------------------------------
+A match was found at line 8401
+Surrounding Lines (8398): have come to diametrically opposite conclusions in ranking forms by
+Surrounding Lines (8399): this test. The sterility is innately variable in individuals of the
+Surrounding Lines (8400): same species, and is eminently susceptible of favourable and
+Keyword Match (8401): unfavourable conditions. The degree of sterility does not strictly
+Surrounding Lines (8402): follow systematic affinity, but is governed by several curious and
+Surrounding Lines (8403): complex laws. It is generally different, and sometimes widely
+Surrounding Lines (8404): different, in reciprocal crosses between the same two species. It is
+----------------------------------------
+A match was found at line 8414
+Surrounding Lines (8411): less facility of one species to unite with another, is incidental on
+Surrounding Lines (8412): unknown differences in their reproductive systems. There is no more
+Surrounding Lines (8413): reason to think that species have been specially endowed with various
+Keyword Match (8414): degrees of sterility to prevent them crossing and blending in nature,
+Surrounding Lines (8415): than to think that trees have been specially endowed with various and
+Surrounding Lines (8416): somewhat analogous degrees of difficulty in being grafted together in
+Surrounding Lines (8417): order to prevent them becoming inarched in our forests.
+----------------------------------------
+A match was found at line 8419
+Surrounding Lines (8416): somewhat analogous degrees of difficulty in being grafted together in
+Surrounding Lines (8417): order to prevent them becoming inarched in our forests.
+Surrounding Lines (8418): 
+Keyword Match (8419): The sterility of first crosses between pure species, which have their
+Surrounding Lines (8420): reproductive systems perfect, seems
+Surrounding Lines (8421): to depend on several circumstances; in some cases largely on the early
+Surrounding Lines (8422): death of the embryo. The sterility of hybrids, which have their
+----------------------------------------
+A match was found at line 8422
+Surrounding Lines (8419): The sterility of first crosses between pure species, which have their
+Surrounding Lines (8420): reproductive systems perfect, seems
+Surrounding Lines (8421): to depend on several circumstances; in some cases largely on the early
+Keyword Match (8422): death of the embryo. The sterility of hybrids, which have their
+Surrounding Lines (8423): reproductive systems imperfect, and which have had this system and
+Surrounding Lines (8424): their whole organisation disturbed by being compounded of two distinct
+Surrounding Lines (8425): species, seems closely allied to that sterility which so frequently
+----------------------------------------
+A match was found at line 8425
+Surrounding Lines (8422): death of the embryo. The sterility of hybrids, which have their
+Surrounding Lines (8423): reproductive systems imperfect, and which have had this system and
+Surrounding Lines (8424): their whole organisation disturbed by being compounded of two distinct
+Keyword Match (8425): species, seems closely allied to that sterility which so frequently
+Surrounding Lines (8426): affects pure species, when their natural conditions of life have been
+Surrounding Lines (8427): disturbed. This view is supported by a parallelism of another
+Surrounding Lines (8428): kind;—namely, that the crossing of forms only slightly different is
+----------------------------------------
+A match was found at line 8433
+Surrounding Lines (8430): slight changes in the conditions of life are apparently favourable to
+Surrounding Lines (8431): the vigour and fertility of all organic beings. It is not surprising
+Surrounding Lines (8432): that the degree of difficulty in uniting two species, and the degree of
+Keyword Match (8433): sterility of their hybrid-offspring should generally correspond, though
+Surrounding Lines (8434): due to distinct causes; for both depend on the amount of difference of
+Surrounding Lines (8435): some kind between the species which are crossed. Nor is it surprising
+Surrounding Lines (8436): that the facility of effecting a first cross, the fertility of the
+----------------------------------------
+A match was found at line 13734
+Surrounding Lines (13731): castes of workers or sterile females in the same community of ants; but
+Surrounding Lines (13732): I have attempted to show how this difficulty can be mastered.
+Surrounding Lines (13733): 
+Keyword Match (13734): With respect to the almost universal sterility of species when first
+Surrounding Lines (13735): crossed, which forms so remarkable a contrast with the almost universal
+Surrounding Lines (13736): fertility of varieties when crossed, I must refer the reader to the
+Surrounding Lines (13737): recapitulation of the facts given at the end of the eighth chapter,
+----------------------------------------
+A match was found at line 13738
+Surrounding Lines (13735): crossed, which forms so remarkable a contrast with the almost universal
+Surrounding Lines (13736): fertility of varieties when crossed, I must refer the reader to the
+Surrounding Lines (13737): recapitulation of the facts given at the end of the eighth chapter,
+Keyword Match (13738): which seem to me conclusively to show that this sterility is no more a
+Surrounding Lines (13739): special endowment than is the incapacity of two trees to be grafted
+Surrounding Lines (13740): together, but that it is incidental on constitutional differences in
+Surrounding Lines (13741): the reproductive systems of the intercrossed species. We see the truth
+----------------------------------------
+A match was found at line 13753
+Surrounding Lines (13750): profoundly modified. Moreover, most of the
+Surrounding Lines (13751): varieties which have been experimentised on have been produced under
+Surrounding Lines (13752): domestication; and as domestication apparently tends to eliminate
+Keyword Match (13753): sterility, we ought not to expect it also to produce sterility.
+Surrounding Lines (13754): 
+Surrounding Lines (13755): The sterility of hybrids is a very different case from that of first
+Surrounding Lines (13756): crosses, for their reproductive organs are more or less functionally
+----------------------------------------
+A match was found at line 13755
+Surrounding Lines (13752): domestication; and as domestication apparently tends to eliminate
+Surrounding Lines (13753): sterility, we ought not to expect it also to produce sterility.
+Surrounding Lines (13754): 
+Keyword Match (13755): The sterility of hybrids is a very different case from that of first
+Surrounding Lines (13756): crosses, for their reproductive organs are more or less functionally
+Surrounding Lines (13757): impotent; whereas in first crosses the organs on both sides are in a
+Surrounding Lines (13758): perfect condition. As we continually see that organisms of all kinds
+----------------------------------------
+A match was found at line 14344
+Surrounding Lines (14341): course of long ages is a limited quantity; no clear distinction has
+Surrounding Lines (14342): been, or can be, drawn between species and well-marked varieties. It
+Surrounding Lines (14343): cannot be maintained that species when intercrossed are invariably
+Keyword Match (14344): sterile, and varieties invariably fertile; or that sterility is a
+Surrounding Lines (14345): special endowment and sign of creation. The belief that species were
+Surrounding Lines (14346): immutable productions was almost unavoidable as long as the history of
+Surrounding Lines (14347): the world was thought to be of short duration; and now that we have
+----------------------------------------
+A match was found at line 14654
+Surrounding Lines (14651): 
+Surrounding Lines (14652): Ammonites, sudden extinction of, 321.
+Surrounding Lines (14653): 
+Keyword Match (14654): Anagallis, sterility of, 247.
+Surrounding Lines (14655): 
+Surrounding Lines (14656): Analogy of variations, 159.
+Surrounding Lines (14657): 
+----------------------------------------
+A match was found at line 14820
+Surrounding Lines (14817): 
+Surrounding Lines (14818): Buckman on variation in plants, 10.
+Surrounding Lines (14819): 
+Keyword Match (14820): Buzareingues on sterility of varieties, 270.
+Surrounding Lines (14821): 
+Surrounding Lines (14822): Cabbage, varieties of, crossed, 99.
+Surrounding Lines (14823): 
+----------------------------------------
+A match was found at line 14826
+Surrounding Lines (14823): 
+Surrounding Lines (14824): Calceolaria, 251.
+Surrounding Lines (14825): 
+Keyword Match (14826): Canary-birds, sterility of hybrids, 252.
+Surrounding Lines (14827): 
+Surrounding Lines (14828): Cape de Verde islands, 398.
+Surrounding Lines (14829): 
+----------------------------------------
+A match was found at line 15197
+Surrounding Lines (15194): Game, increase of, checked by vermin, 68.
+Surrounding Lines (15195): 
+Surrounding Lines (15196): Gärtner:
+Keyword Match (15197): on sterility of hybrids, 247, 255.
+Surrounding Lines (15198): on reciprocal crosses, 258.
+Surrounding Lines (15199): on crossed maize and verbascum, 270.
+Surrounding Lines (15200): on comparison of hybrids and mongrels, 272.
+----------------------------------------
+A match was found at line 15301
+Surrounding Lines (15298): 
+Surrounding Lines (15299): Herbert, W.:
+Surrounding Lines (15300): on struggle for existence, 62.
+Keyword Match (15301): on sterility of hybrids, 249.
+Surrounding Lines (15302): 
+Surrounding Lines (15303): Hermaphrodites crossing, 96.
+Surrounding Lines (15304): 
+----------------------------------------
+A match was found at line 15311
+Surrounding Lines (15308): 
+Surrounding Lines (15309): Heusinger on white animals not poisoned by certain plants, 12.
+Surrounding Lines (15310): 
+Keyword Match (15311): Hewitt, Mr., on sterility of first crosses, 264.
+Surrounding Lines (15312): 
+Surrounding Lines (15313): Himalaya:
+Surrounding Lines (15314): glaciers of, 373.
+----------------------------------------
+A match was found at line 15433
+Surrounding Lines (15430): 
+Surrounding Lines (15431): Kölreuter:
+Surrounding Lines (15432): on the barberry, 98.
+Keyword Match (15433): on sterility of hybrids, 247.
+Surrounding Lines (15434): on reciprocal crosses, 258.
+Surrounding Lines (15435): on crossed varieties of nicotiana, 271.
+Surrounding Lines (15436): on crossing male and hermaphrodite flowers, 451.
+----------------------------------------
+A match was found at line 15472
+Surrounding Lines (15469): 
+Surrounding Lines (15470): Lobelia fulgens, 73, 98.
+Surrounding Lines (15471): 
+Keyword Match (15472): Lobelia, sterility of crosses, 250.
+Surrounding Lines (15473): 
+Surrounding Lines (15474): Loess of the Rhine, 384.
+Surrounding Lines (15475): 
+----------------------------------------
+A match was found at line 15576
+Surrounding Lines (15573): Moles, blind, 137.
+Surrounding Lines (15574): 
+Surrounding Lines (15575): Mongrels:
+Keyword Match (15576): fertility and sterility of, 267.
+Surrounding Lines (15577): and hybrids compared, 272.
+Surrounding Lines (15578): 
+Surrounding Lines (15579): Monkeys, fossil, 303,
+----------------------------------------
+A match was found at line 15717
+Surrounding Lines (15714): 
+Surrounding Lines (15715): Pelargonium:
+Surrounding Lines (15716): flowers of, 145.
+Keyword Match (15717): sterility of, 251.
+Surrounding Lines (15718): 
+Surrounding Lines (15719): Pelvis of women, 144.
+Surrounding Lines (15720): 
+----------------------------------------
+A match was found at line 15787
+Surrounding Lines (15784): Prestwich, Mr., on English and French eocene formations, 328.
+Surrounding Lines (15785): 
+Surrounding Lines (15786): Primrose, 49.
+Keyword Match (15787): sterility of, 247.
+Surrounding Lines (15788): 
+Surrounding Lines (15789): Primula, varieties of, 49.
+Surrounding Lines (15790): 
+----------------------------------------
+A match was found at line 15842
+Surrounding Lines (15839): law of inheritance, 14.
+Surrounding Lines (15840): in pigeons to blue colour, 160.
+Surrounding Lines (15841): 
+Keyword Match (15842): Rhododendron, sterility of, 251.
+Surrounding Lines (15843): 
+Surrounding Lines (15844): Richard, Professor, on Aspicarpa, 417.
+Surrounding Lines (15845): 
+----------------------------------------
+A match was found at line 15968
+Surrounding Lines (15965): 
+Surrounding Lines (15966): Stag-beetles, fighting, 88.
+Surrounding Lines (15967): 
+Keyword Match (15968): Sterility:
+Surrounding Lines (15969): from changed conditions of life, 9.
+Surrounding Lines (15970): of hybrids, 246.
+Surrounding Lines (15971): laws of, 254.
+----------------------------------------
+A match was found at line 16125
+Surrounding Lines (16122): classification of, 423.
+Surrounding Lines (16123): 
+Surrounding Lines (16124): Verbascum:
+Keyword Match (16125): sterility of, 251.
+Surrounding Lines (16126): varieties of, crossed, 270.
+Surrounding Lines (16127): 
+Surrounding Lines (16128): Verneuil, M. de, on the succession of species, 325.
+----------------------------------------
