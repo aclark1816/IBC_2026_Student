@@ -1,0 +1,104 @@
+# Week 5 Practicals
+
+## Assignment #1: Baking a Cake
+### The objective of this task was to describe baking a cake in pseudocode. As such, pseudocode for this assignment is only included in this master file, rather than in a separate ### file.
+### Pseudocode Script
+
+  ```Python
+
+# Ingredients list
+i = ["Flour," "Eggs", "Milk", "Butter", "Sugar"]
+      
+# Add all ingredients in order
+for x in i:
+print(x)
+
+# Hypothetical mix function for ingredients, saves as ing_mixed variable
+ing_mixed = mix(i)
+
+# while loop for determining if cake batter is cooked
+cookTemp = 400
+t = 20
+cakeDone = False
+
+while batterSticktoKinfe == True
+      if cakeDone == False:
+            t = t + 1
+      else butterSticktoKnife == False:
+            print("Your cake is done!")
+
+  ```
+
+### Firstly, I made a list i, listed them in order with a for loop, and mixed the ingredients in the ing_mixed variable. Then, I created a while loop, with the start time (t) at 20 minutes and a cookTemp variable at 400 degrees Fahrenheit. With the cakeDone variable set to False, and the batterSticktoKnife variable set to True, I made the loop conditional on ending when the batterSticktoKnife variable is false. If that isn't the case, then the cake variable would be assumed to be false.
+
+## Assignment #2: Fizz Buzz
+### The objective of this assignment is to write pseudocode and actual code for the FizzBuzz game.
+### Pseudocode Script:
+
+  ```Python
+
+
+# for loop for printing fizz, buzz, and fizzbuzz
+x = 1
+
+for x in range(100): 
+     if x % 15 == 0: # Least common denominator for numbers divisible by 3 and 5
+        x = x + 1
+        print(x, "fizzbuzz")
+    elif x % 3 == 0:
+        print(x, "fizz")
+        x = x + 1
+    elif x % 5 == 0:
+        print(x, "buzz")
+        x = x + 1
+
+```
+
+### The previous pseudocode runs the Fizz Buzz game for numbers 1-100. Firstly, the for loop checks if x is divisible by 15, which indicates that the number is divisible by 3 and 5. Then, it checks if x is divisble by 3, before checking if it's divisible by 5. This is laid out such that there won't be three print statements for x if it's divisible by 3 and 5.
+--------------------------------------------------------------------------------------------------------------------------------------
+### Python Script
+
+  ```Python
+
+# for loop for printing fizz, buzz, and fizzbuzz
+for x in range(1, 101):
+    if x % 15 == 0: # Divisible by 5 and 3
+        print(x, "fizzbuzz")
+    elif x % 3 == 0: # Divisible by 3
+        print(x, "fizz")
+    elif x % 5 == 0: # Divisible by 5
+        print(x, "buzz")
+    else:
+        print(x) # Prints number if it is not divisible by 5 or 3
+
+```
+### This code follows the same logic as the pseudoscript.
+--------------------------------------------------------------------------------------------------------------------------------------------
+## Assignment #3: GC Content From Fasta
+### The objective of this assignment is to write a file that contains the sequence names and GC content of all 15 coding sequences in the Turkey_transcripts_15.fasta file
+
+  ```Python
+
+# The following code aims to determine the GC content from the Turkey_trascripts_15.fasta file
+
+tt = open(r"c:\Users\Alexei Clark\Documents\IntroCompBiol\IntroBiolComp-2026\IntroBiolComp-2026\W5\Python\DataFiles\Turkey_transcripts_15.fasta", "r")
+
+tt.seek(0) # Resets file if needed
+
+for x in tt: # for loop
+    
+    if x.startswith(">"): # Header of fasta file
+        if dna:
+            gc = (dna.count("G") + dna.count("C")) / len(dna) # Measures GC content, or proportion of Gs and Cs relative to the length
+            print(name, "   ", round(gc, 3)) # Round function truncates
+        
+        name = x[1:].split()[0] # Splits by spaces, captures first string
+        
+    else:
+        dna += x # new syntax, adds to dna variable
+
+```
+
+### This code extracts the relevant file, and runs a for loop. Within the for loop are nested if statements, which creates a "list" of the gc contents of each sequence and output the name, followed by a truncated content value. This loop repeats until all sequences are captured. 
+
+

@@ -1,0 +1,174 @@
+# This is the main file for the Week 6 Practical Assignment
+## Problem #1: Debug This Code
+### The objective of this problem was to examine the given code. I am expected to (1) explain each line and (2) use pdb to find the bug.
+### The annotated raw code is as follows, which answers Question 1.
+
+  ```python
+
+import pickle # Line 1: This line imports the pickle function
+# load dictionary with genetic code from pickle file
+genetic_code = pickle.load(open("../data/genetic_code.pickle", "rb")) # Line 2: This line opens the file genetic_code.pickle, which is stored under the variable of genetic_code
+
+# test case: desired amino acid sequence
+# MEFSL[stop] # Line 3: This function declares the amino acid string.
+test_mRNA = "AUGGAAUUCUCGCUCUGAAGGUAA" # Line 4: This function declares a sample mRNA stand under the test_mRNA variable.
+
+def get_amino_acids(mRNA): # Line 5: The get_amino_acid() function is defined for the mRNA variable
+    i = 0 # Line 6: Declares that variable i starts at 0
+    aa_sequence = [] # Line 7: Declares that the amino acid sequence is displayed in brackets
+    while (i + 3) < len(mRNA): # Line 8: While loop for when i + 3 is less than the mRNA length
+        codon = mRNA[i:(i + 3)] # Line 9: Defines a codon as every 3 amino acids
+        aa = genetic_code[codon] # Line 10: Searches for each amino acid (aa) in the genetic_code dictionary file
+        if aa == "Stop": # Line 11 and 12: If loop that declares that once a stop codon is reached, the code should stop (break)
+            break
+        else: # Line 13: Adds an else statement
+            aa_sequence.append(aa) # Line 14: Declares that the sequence should continue
+        # advance to the next codon
+        i = i + 4 # Line 15: Goes to next codon
+    return "".join(aa_sequence) # Line 16: Joins the amino acid sequences in a string
+
+print(get_amino_acids(test_mRNA)) # Line 17: Prints out the amino acid chain for the test mRNA chain
+# problem: the program returns MNLLEV instead of MEFSL!
+```
+### I then debugged this code using pdb. The corrected code is as follows, which answers question 2:
+
+  ```python
+import pickle
+
+# load dictionary with genetic code from pickle file
+genetic_code = pickle.load(open(r"C:\Users\Alexei Clark\Documents\IntroCompBiol\IntroBiolComp-2026\Python\genetic_code.pickle", "rb"))
+
+# test case: desired amino acid sequence
+# MEFSL[stop]
+test_mRNA = "AUGGAAUUCUCGCUCUGAAGGUAA"
+
+def get_amino_acids(mRNA):
+    i = 0
+    aa_sequence = []
+    while (i + 3) < len(mRNA):
+        codon = mRNA[i:(i + 3)]
+        aa = genetic_code[codon]
+        if aa == "Stop":
+            break
+        else:
+            aa_sequence.append(aa)
+        # advance to the next codon
+        i = i + 4
+    return "".join(aa_sequence)
+
+print(get_amino_acids(test_mRNA))
+# problem: the program returns MNLLEV instead of MEFSL!
+
+pdb.runcall(get_amino_acids, test_mRNA)
+```
+
+### Within the pdb terminal, I typed:
+
+  ```python
+[mRNA[idx:idx+3] for idx in range(0, len(mRNA), 4)]
+```
+
+### This printed out a list of the nucleic acids in every codon, as defined by the while loop in the script. It revealed the following output:
+
+  ```python
+['AUG', 'AAU', 'CUC', 'CUC', 'GAA', 'GUA']
+```
+
+### When compared to the test_mRNA variable, it is discovered that every fourth nucleic acid is skipped. This explains the discrepancy. The corrected file (Pickle_Debug) is posted within this folder, along with the various errors I encountered during the process of coming to this answer for the purpose of feedback and transparency.
+
+## Problem #2: Gobbler Proteins
+### The objective of this problem was to apply the corrected script to the Turkey_transcripts_15_coding.fasta file and print the amino acids. The base of this code, the corrected pickle_debug file, is listed below (and is in this folder as Pickle_Cebug_Corrected).
+
+  ```python
+
+import pickle
+
+# load dictionary with genetic code from pickle file
+genetic_code = pickle.load(open(r"C:\Users\Alexei Clark\Documents\IntroCompBiol\IntroBiolComp-2026\Python\genetic_code.pickle", "rb"))
+
+# test case: desired amino acid sequence
+# MEFSL[stop]
+test_mRNA = "AUGGAAUUCUCGCUCUGAAGGUAA"
+
+def get_amino_acids(mRNA):
+    i = 0
+    aa_sequence = []
+    while (i + 3) < len(mRNA):
+        codon = mRNA[i:(i + 3)]
+        aa = genetic_code[codon]
+        if aa == "Stop":
+            break
+        else:
+            aa_sequence.append(aa)
+        # advance to the next codon
+        i = i + 3 # This was initially i + 4, and should have been i + 3 to reflect the 3-nucleotide length of a codon
+    return "".join(aa_sequence)
+
+print(get_amino_acids(test_mRNA))
+# problem: the program returns MNLLEV instead of MEFSL!
+
+```
+
+### Then, this file was modified to accept the Turkey_transcripts_15_coding.fasta file.
+
+  ```python
+import pickle
+
+# Load dictionary with genetic code from pickle file
+genetic_code = pickle.load(open(r"C:\Users\Alexei Clark\Documents\IntroCompBiol\IntroBiolComp-2026\Python\genetic_code.pickle","rb",))
+
+# Portion of code from previous question
+def get_amino_acids(mRNA):
+    i = 0
+    aa_sequence = []
+    while (i + 3) <= len(mRNA):
+        codon = mRNA[i : (i + 3)]
+        aa = genetic_code.get(codon, "?")
+        if aa == "Stop":
+            break
+        else:
+            aa_sequence.append(aa)
+        i = i + 3
+    return "".join(aa_sequence)
+
+
+# Open FASTA file containing the transcripts
+tt = open(r"C:\Users\Alexei Clark\Documents\IntroCompBiol\IntroBiolComp-2026\Python\DataFiles\Turkey_transcripts_15_coding.fasta","r",)
+
+tt.seek(0)  # Resets file pointer if needed
+
+name = ""
+dna = ""
+
+for x in tt:
+    if x.startswith(">"):  # Header of FASTA file
+        if dna:
+            # Calculate and display GC content
+            gc = (dna.count("G") + dna.count("C")) / len(dna)
+            print(f"Header: {name}")
+            print(f"GC Content: {round(gc, 3)}")
+
+            # Convert DNA to mRNA and translate to Amino Acid sequence
+            mrna = dna.replace("T", "U")
+            aa_seq = get_amino_acids(mrna)
+            print(f"AA Sequence: {aa_seq}\n" + "-" * 50)
+
+            dna = ""  # Reset sequence accumulator for next entry
+
+        name = x[1:].split()[0]  # Capture transcript identifier header
+    else:
+        dna += x.strip()  # Accumulate sequence lines
+
+# Submit all else
+if dna:
+    gc = (dna.count("G") + dna.count("C")) / len(dna)
+    print(f"Header: {name}")
+    print(f"GC Content: {round(gc, 3)}")
+
+    mrna = dna.replace("T", "U")
+    aa_seq = get_amino_acids(mrna)
+    print(f"AA Sequence: {aa_seq}")
+```
+### This code meshed the script developed in the previous practical assignment for a similar fasta file along with the script presented to us in class today. As such, the code first displays the library for each codon. Then, with each codon, the amino acids for each mRNA chain are displayed using the startswith(">") function that I used to complete a similar assignment previously.
+
+

@@ -1,0 +1,18 @@
+#!/usr/bin/env python
+
+# The following code aims to print an "all about you" panel, with each characteristic saved as a variable
+# Saving each characteristic as a variable
+
+name = "Alexei Clark" # Name
+fav_color = "Blue" # Favorite Color
+fav_activ = "Playing Video Games" # Favorite Activity
+fav_anim = "Kiwi" # Favorite Animal
+
+# Print out full panel, separating text and variables
+# Used \n to separate lines
+
+print("My Name: " + name +
+     "\nMy Favorite Color: " + fav_color +
+     "\nMy Favorite Activity: " + fav_activ +
+     "\nMy Favorite Animal: " + fav_anim)
+
