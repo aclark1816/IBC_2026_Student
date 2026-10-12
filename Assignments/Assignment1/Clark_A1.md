@@ -297,7 +297,19 @@ for i in range(len(days)):
 ### The previous code utilizes nested loops to display the elements of the days[] and gifts[] lists in a particular order. The outermost loop keeps track of the days, and the next loop counts elements in both lists backwards, stopping at the first element. The innermost loop adds an "and" at the end of the second-to-last item in the list. A blank space is added to separate verses too.
 
 ## Question 4:
-### The following commands were used to upload my files:
+### The following Bash commands were used to upload my files:
 
+  ```bash
+# Declare my directory
+cd "/c/Users/Alexei Clark/Documents/IntroCompBiol/IntroBiolComp-2026/IntroBiolComp-2026/IBC_2026_Student"
+
+# Confirm that I'm pushing my local directories to this GitHub account
+git remote set-url origin https://github.com/aclark1816/IBC_2026_Student.git
+
+git add -A # States all changes made
+git commit -m "Upload Assignment 1 files # Commits to local Git history
+git push origin main # Commits to main branch of Github repository
+```
+### The first two commands were done to declare my directory and confirm my remote repository to ensure that the files are pushed to the correct position. The last three commands simply save all new changes made, commit them to the local Git history, and push them onto the Github repository.
 
 
