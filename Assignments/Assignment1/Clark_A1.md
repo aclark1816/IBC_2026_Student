@@ -300,7 +300,7 @@ for i in range(len(days)):
 ### The following Bash commands were used to upload my files:
 
   ```bash
-# Declare my directory
+# Declare my directory. This filepath appears slightly different from earlier filepaths due to manual rearrangement of my local directory to be compatible with a Git Push.
 cd "/c/Users/Alexei Clark/Documents/IntroCompBiol/IntroBiolComp-2026/IntroBiolComp-2026/IBC_2026_Student"
 
 # Confirm that I'm pushing my local directories to this GitHub account
@@ -311,5 +311,3 @@ git commit -m "Upload Assignment 1 files" # Commits to local Git history
 git push origin main # Commits to main branch of Github repository
 ```
 ### The first two commands were done to declare my directory and confirm my remote repository to ensure that the files are pushed to the correct position. The last three commands simply save all new changes made, commit them to the local Git history, and push them onto the Github repository.
-
-
