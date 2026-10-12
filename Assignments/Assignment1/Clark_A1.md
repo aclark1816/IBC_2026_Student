@@ -246,7 +246,7 @@ wordcloud_cli --text "C:\Users\Alexei Clark\Documents\IntroCompBiol\IntroBiolCom
 wordcloud_cli --text "C:\Users\Alexei Clark\Documents\IntroCompBiol\IntroBiolComp-2026\Assignment1\isolation_output.txt" --imagefile "C:\Users\Alexei Clark\Documents\IntroCompBiol\IntroBiolComp-2026\Assignment1\isolation_wordcloud.png"
 ```
 ### The output for this image is as follows:
-![Isolation_Wordcloud](sterility_wordcloud.png)
+![Isolation_Wordcloud](isolation_wordcloud.png)
 
 ### The same discrepancies that were previously noted should be applied to this wordcloud too.
 
