@@ -307,7 +307,7 @@ cd "/c/Users/Alexei Clark/Documents/IntroCompBiol/IntroBiolComp-2026/IntroBiolCo
 git remote set-url origin https://github.com/aclark1816/IBC_2026_Student.git
 
 git add -A # States all changes made
-git commit -m "Upload Assignment 1 files # Commits to local Git history
+git commit -m "Upload Assignment 1 files" # Commits to local Git history
 git push origin main # Commits to main branch of Github repository
 ```
 ### The first two commands were done to declare my directory and confirm my remote repository to ensure that the files are pushed to the correct position. The last three commands simply save all new changes made, commit them to the local Git history, and push them onto the Github repository.
