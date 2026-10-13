@@ -117,8 +117,8 @@ curl -o origin.txt https://www.gutenberg.org/cache/epub/1228/pg1228.txt
 
   ```python
 # Open the file in binary mode (rb). This is to allow the code to read any unorthodox characters.
-with open(r"C:\Users\Alexei Clark\Documents\IntroCompBiol\IntroBiolComp-2026\Assignment1\origin.txt", "rb") as f:
-    text = f.read().lower() # Reads the text in only lowercase letters. This is to get around the case requirements.
+with open(r"C:\Users\Alexei Clark\Documents\IntroCompBiol\IntroBiolComp-2026\IntroBiolComp-2026\IBC_2026_Student\Assignments\Assignment1\origin.txt", "rb") as f:
+  text = f.read().lower() # Reads the text in only lowercase letters. This is to get around the case requirements.
 
 # Since binary mode uses the byte object, the prefix b must be placed in front of any terms that are to be searched
 sterility_count = text.count(b"sterility")
