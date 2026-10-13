@@ -61,7 +61,7 @@ python python_file_name.py data_set.csv target_id
 ### For example, entering the following code would display 17, as confirmed by the previous question's answer.
 
   ```bash
-python Assignment1c_FINAL.py Gesquiere2011_data.csv 8
+python Assignment1c_Final.py Gesquiere2011_data.csv '"8'
 ```
 
 ## Part D:
