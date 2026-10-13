@@ -17,8 +17,8 @@ git pull
 ### To complete this portion of the assignment
 
   ```bash
-grep -n "^8[[:space:]]" Gesquiere2011_data.csv
-grep -n "^22[[:space:]]" Gesquiere2011_data.csv
+grep -n '^"8[[:space:]]' Gesquiere2011_data.csv
+grep -n '^"22[[:space:]]' Gesquiere2011_data.csv
 ```
 ### Individual 8 was sampled 17 times. Individual 22 was sampled 5 times.
 
