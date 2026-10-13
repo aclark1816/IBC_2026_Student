@@ -144,6 +144,9 @@ output_path = r"C:\Users\Alexei Clark\Documents\IntroCompBiol\IntroBiolComp-2026
 with open(file_path, "rb") as f:
     binary_content = f.read()
 
+# Split the binary content into a list of lines
+lines = binary_content.splitlines()
+
 # Convert a lowercase version of the whole text for counting
 text = binary_content.lower()
 
