@@ -243,7 +243,7 @@ conda install conda-forge::wordcloud
 ```
 ### To generate the word cloud for "sterility," the following code was typed into the command line:
   ```Conda
-wordcloud_cli --text "C:\Users\Alexei Clark\Documents\IntroCompBiol\IntroBiolComp-2026\Assignment1\sterility_output.txt" --imagefile "C:\Users\Alexei Clark\Documents\IntroCompBiol\IntroBiolComp-2026\Assignment1\sterility_wordcloud.png"
+wordcloud_cli --text "C:\Users\Alexei Clark\Documents\IntroCompBiol\IntroBiolComp-2026\IntroBiolComp-2026\IBC_2026_Student\Assignments\Assignment1\sterility_output.txt" --imagefile "C:\Users\Alexei Clark\Documents\IntroCompBiol\IntroBiolComp-2026\IntroBiolComp-2026\IBC_2026_Student\Assignments\Assignment1\sterility_wordcloud.png"
 ```
 ### The output for this image is as follows:
 ![Sterility Wordcloud](sterility_wordcloud.png)
@@ -252,7 +252,7 @@ wordcloud_cli --text "C:\Users\Alexei Clark\Documents\IntroCompBiol\IntroBiolCom
 
 ### To generate the word cloud for "isolation," the following code was typed into the command line:
   ```Conda
-wordcloud_cli --text "C:\Users\Alexei Clark\Documents\IntroCompBiol\IntroBiolComp-2026\Assignment1\isolation_output.txt" --imagefile "C:\Users\Alexei Clark\Documents\IntroCompBiol\IntroBiolComp-2026\Assignment1\isolation_wordcloud.png"
+wordcloud_cli --text "C:\Users\Alexei Clark\Documents\IntroCompBiol\IntroBiolComp-2026\IntroBiolComp-2026\IBC_2026_Student\Assignments\Assignment1\isolation_output.txt" --imagefile "C:\Users\Alexei Clark\Documents\IntroCompBiol\IntroBiolComp-2026\IntroBiolComp-2026\IBC_2026_Student\Assignments\Assignment1\isolation_wordcloud.png"
 ```
 ### The output for this image is as follows:
 ![Isolation_Wordcloud](isolation_wordcloud.png)
