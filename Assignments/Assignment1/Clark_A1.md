@@ -6,7 +6,7 @@
 
   ```bash
 
-cd '/c/Users/Alexei Clark/Documents/IntroCompBiol/IntroBiolComp-2026'
+cd 'C:\Users\Alexei Clark\Documents\IntroCompBiol\IntroBiolComp-2026\IntroBiolComp-2026\IBC_2026_Student\Assignments\Assignment1'
 git pull
 
 ```
