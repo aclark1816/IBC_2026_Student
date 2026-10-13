@@ -100,5 +100,5 @@ for x in tt: # for loop
 ```
 
 ### This code extracts the relevant file, and runs a for loop. Within the for loop are nested if statements, which creates a "list" of the gc contents of each sequence and output the name, followed by a truncated content value. This loop repeats until all sequences are captured. 
-
+>[!NOTE] This code doesn't run! The error I got stems from the `if dna:` statement, since the variable `dna` has not been set. YOu also seem to be calculating the GC content within the `if x.startswith(">"):` statement, which identifies a line with a header, not a sequence. Finally, the code doesn't write to a file, which was 
 
