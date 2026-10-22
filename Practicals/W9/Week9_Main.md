@@ -106,7 +106,6 @@ getArea <- function(f) {
 }
 
 # Task #2: Write a for loop that processes all images using the getArea function
-# FIX: Added full.names = TRUE and ignore.case = TRUE so files are found properly
 image_list <- list.files(path = dir, pattern = "\\.JPG$", ignore.case = TRUE, full.names = TRUE)
 
 # Initialize results data frame to store area and file names together
@@ -153,3 +152,4 @@ setwd("C:\\Users\\Alexei Clark\\Documents\\IntroCompBiol\\IntroBiolComp-2026\\In
 write.csv(growth_df, file = "LeafAreaGrowth.csv")
 
 ```
+### To complete the first part of the task, the initial installation script was used. This is reflected in the main file by importing it with the library() function. The directory for the relevant data was set, and the getArea() function script was integrated into the code. An image_list variable was created to recognize all .JPG files. The results_df dataframe was initialized, and a for loop was used to integrate the leaf area into the dataframe. This dataframe was constantly appended to, completing the second part of the task. To complete the third part of the task, the t1 and t2 images were separated and merged into the growth_df. From there, the average value of 7097.455 was calculated for the growth from t1 to t2. The entire growth_df was saved as the "LeafAreaGrowth.csv" file, concluding tasks the third and fourth tasks.
