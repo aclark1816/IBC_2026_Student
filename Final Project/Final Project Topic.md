@@ -1,4 +1,4 @@
-### The following displays my final project topic. This was sent out as an email as well, so this serves as an additional location for my schematic.
+# The following displays my final project topic. This was sent out as an email as well, so this serves as an additional location for my schematic.
 ## Overall, I intend to identify the relationship between the gene expression values and mutation statuses of many cell cycle genes. The methodology for this task would be as follows:
 ## 1. Capture all cell cycle genes listed in the relevant CSV files and store the number of mutations each gene experienced across all cell lines in cancerous cells.
 ## 2. Identify the corresponding change in expression values in cancerous cells that each gene experienced across all cell lines.
