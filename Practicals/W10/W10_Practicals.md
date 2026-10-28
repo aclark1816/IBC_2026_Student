@@ -99,9 +99,11 @@ cat("Randomization Test p-value:", p_value_sex, "\n")
 ```
 ### Part 1 Response: Running this code should display a table as follows.
 <img width="356" height="290" alt="image" src="https://github.com/user-attachments/assets/cfcaf0ea-fe82-4a26-ad4f-06c3f92f815a" />
+
 ### A binomial model was used to simulate the probability of each frog being right-handed, with the null hypothesis being p = 0.5. If a trial was more or less extreme with an assumed p-value = 0.05, then the frog was labeled as right- or left-handed depending on its position in the distribution. If a p-value = 0.05 was not observed, then no preference was assumed; The null hypothesis failed to be rejected.
 
 ### Part 2 Response: Running this code should display the following message.
+
 <img width="554" height="169" alt="image" src="https://github.com/user-attachments/assets/b56941cf-c1ee-4d39-a598-994c799b7808" />
 ### The built-in R function to perform a binomial test was used. The only relevant information was that the p-value was very close to 0. This is indicative that, assuming the null hypothesis was correct, this simulation was an extremely rare outcome. More likely, however, one may conclude that frogs have a preference for being right-handed.
 
