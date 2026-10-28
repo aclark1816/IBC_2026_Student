@@ -97,3 +97,5 @@ cat("Observed Difference in Proportions (M - F):", obs_diff, "\n")
 cat("Randomization Test p-value:", p_value_sex, "\n")
 
 ```
+### Part 1 Response: Running this code should display a table as follows:
+<img width="356" height="290" alt="image" src="https://github.com/user-attachments/assets/cfcaf0ea-fe82-4a26-ad4f-06c3f92f815a" />
