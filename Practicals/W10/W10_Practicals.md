@@ -108,3 +108,12 @@ cat("Randomization Test p-value:", p_value_sex, "\n")
 
 ### The built-in R function to perform a binomial test was used. The only relevant information was that the p-value was very close to 0. This is indicative that, assuming the null hypothesis was correct, this simulation was an extremely rare outcome. More likely, however, one may conclude that frogs have a preference for being right-handed.
 
+### Part 3 Response: Running this code reveals the following message.
+
+<img width="527" height="71" alt="image" src="https://github.com/user-attachments/assets/29072919-df9f-45f7-9a09-a6c2c9d9de25" />
+
+### The randomization test from the observed difference in proportions revealed a p-value of 0.4276; There is not sufficient evidence to reject the null hypothesis. It is therefore assumed that there is no variation between male and female frogs in hand preference.
+
+### Overall Notes: This code utilized for loops and the sample function to randomize data. Additionally, hypothesis testing was used to confirm or deny assumptions made.
+
+
