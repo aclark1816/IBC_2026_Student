@@ -105,5 +105,6 @@ cat("Randomization Test p-value:", p_value_sex, "\n")
 ### Part 2 Response: Running this code should display the following message.
 
 <img width="554" height="169" alt="image" src="https://github.com/user-attachments/assets/b56941cf-c1ee-4d39-a598-994c799b7808" />
+
 ### The built-in R function to perform a binomial test was used. The only relevant information was that the p-value was very close to 0. This is indicative that, assuming the null hypothesis was correct, this simulation was an extremely rare outcome. More likely, however, one may conclude that frogs have a preference for being right-handed.
 
