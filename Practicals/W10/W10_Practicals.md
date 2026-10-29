@@ -234,7 +234,7 @@ results_list <- lapply(all_taxa, function(t) {
 ### Part 2 Response: The following information was produced from the script.
 <img width="524" height="75" alt="image" src="https://github.com/user-attachments/assets/eaea4b6b-d71c-41e3-8726-845713f85375" />
 
-### The script utilizes 50,000 simulations (via a for loop and the sample function) to compare the observed mean to other likely outcomes. Ultimately, the randomization tests suggested that higher means were not likely. Overall, this script compiled from the first part, which returned the mean value for r.
+### The script utilizes 50,000 simulations (via a for loop and the sample function) to compare the observed mean to other likely outcomes. Ultimately, the randomization tests suggested that higher means were not likely. Overall, this script compounded from the first part, which returned the mean value for r.
 
 ### Part 3 Response: The following information was produced from the script.
 <img width="462" height="371" alt="image" src="https://github.com/user-attachments/assets/11a4966b-3892-4aa8-ac8f-ce4f81f461b1" />
