@@ -239,6 +239,10 @@ results_list <- lapply(all_taxa, function(t) {
 ### Part 3 Response: The following information was produced from the script.
 <img width="462" height="371" alt="image" src="https://github.com/user-attachments/assets/11a4966b-3892-4aa8-ac8f-ce4f81f461b1" />
 
+<img width="433" height="445" alt="image" src="https://github.com/user-attachments/assets/e6d6c013-347a-4bbb-baab-a15b35e142a4" />
+
+### The script essentially performs the function for part 2 for every single taxon. This method utilizes the creation of a function, composed similarly to the script developed in question 2. From there, a list was created to perform the new function on every single taxon.
+
 
 
 
