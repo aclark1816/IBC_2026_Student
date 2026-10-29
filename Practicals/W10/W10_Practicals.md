@@ -76,7 +76,7 @@ toad_hand$Prop_rights <- toad_hand$N_rights / toad_hand$N_trials
 obs_diff <- mean(toad_hand$Prop_rights[toad_hand$Sex == "M"]) - 
   mean(toad_hand$Prop_rights[toad_hand$Sex == "F"])
 
-# Set up the randomization test (e.g., 10,000 iterations)
+# Set up the randomization test
 nExp2 <- 10000
 nExp2_diffs <- numeric(nExp2)
 
