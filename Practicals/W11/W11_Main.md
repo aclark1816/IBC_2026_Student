@@ -1,6 +1,24 @@
 # Week 11 Practical
 ## Problem 1: Recreating Figure 1 without the expand.grid() function
 
+### The figure that is to be recreated without the expand.grid() function is shown as follows:
+
+<img width="281" height="245" alt="image" src="https://github.com/user-attachments/assets/73ed6e00-4cf4-4f7b-919a-50a79f5ed83b" />
+
+### The code for the original figure is as follows:
+
+```R
+grid <- expand.grid(1:5, 6:1)
+plot(grid, pch = 0:30, cex = 2.5,
+     yaxt = "n", xaxt = "n",
+     ann = FALSE, xlim = c(0.5, 5.25),
+     ylim = c(0.5, 6.5))
+
+grid2 <- expand.grid(seq(0.6, 4.6, 1), 6:1)
+text(grid2$Var1[1:26], grid2$Var2[1:26], 0:25)
+```
+
+
 ## Problem 2: Recreating a figure in scientific literature
 ### The original figure is displayed as follows:
 <img width="239" height="194" alt="image" src="https://github.com/user-attachments/assets/b725988e-5219-4ab0-b4bd-236229f2857d" />
