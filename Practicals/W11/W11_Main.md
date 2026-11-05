@@ -18,6 +18,7 @@
 ### Overall, I think that this graph is quite effective. It's not cluttered and is quite readable. However, I found the color palette to be distracting, since the fluorescent rainbow colors distracted me from the overall trend of the data. Overall, though, it effectively conveyed the data in a concise, simple way, which I believe is most important in scientific literature.
 
 ### The overall script is as follow:
+
     ```R
 # The objective of this assignment is to recreate a designated figure listed in the week 11 markdown file
 
