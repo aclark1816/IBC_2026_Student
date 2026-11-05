@@ -30,7 +30,7 @@ plot(x, y, pch = 0:30, cex = 2.5,
      ann = FALSE, xlim = c(0.5, 5.25),
      ylim = c(0.5, 6.5))
 
-# Positions teext to the left of the points (0.6 is closer to the left than 1, for instance)
+# Positions text to the left of the points (0.6 is closer to the left than 1, for instance)
 x2 <- rep(seq(0.6, 4.6, 1), times = 6)
 y2 <- rep(6:1, each = 5)
 
