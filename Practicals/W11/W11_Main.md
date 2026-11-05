@@ -13,6 +13,8 @@
 
 ### It should be noted that it was difficult to identify the specific dataset to use for recreating the graph. Instead, I believe that I used a modified dataset that shows a similar structure to the original but with additional data points. However, after scouring all of the raw data provided, I could not find a suitable alternative. If the exact dataset were to be found, then the file would simply be replaced.
 
+## Question Answer:
+
 ### Overall, I think that this graph is quite effective. It's not cluttered and is quite readable. However, I found the color palette to be distracting, since the fluorescent rainbow colors distracted me from the overall trend of the data. Overall, though, it effectively conveyed the data in a concise, simple way, which I believe is most important in scientific literature.
 
 ### The overall script is as follow:
@@ -79,4 +81,4 @@ ggplot(binned_data, aes(x = Length_Bin, y = Frequency, fill = Length_Bin)) +
   ) +
   scale_y_continuous(expand = expansion(mult = c(0, 0.12)))
     ```
-
+### After importing the necessary libraries to read the FASTA file and tidyverse to design the histogram, the working directory was set, and the VA-8.all.cds.fasta master file was loaded. A simple dataframe was created containing the unique gene names along with their lengths. The bin intervals and labels were then established for the histogram, and using piping, the dataframe was mutated into binned_data. The frequency of each gene length was recorded and ordered from smallest to largest. Finally, a histogram plot was made, with various modifications to fit in line with the theme of the original histogram. Although there are large chunks of code in this portion, they served the purpose of modifying the aesthetics of the histogram, rather than function.
