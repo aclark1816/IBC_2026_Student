@@ -18,6 +18,32 @@ grid2 <- expand.grid(seq(0.6, 4.6, 1), 6:1)
 text(grid2$Var1[1:26], grid2$Var2[1:26], 0:25)
 ```
 
+### The revised code for recreating this figure without the expand.grid() function is shown as follows:
+
+```R
+# x and y = Shape coordinates
+x <- rep(1:5, times = 6) # Times repeats the sequence
+y <- rep(6:1, each = 5) # Each repeats the number
+
+plot(x, y, pch = 0:30, cex = 2.5,
+     yaxt = "n", xaxt = "n",
+     ann = FALSE, xlim = c(0.5, 5.25),
+     ylim = c(0.5, 6.5))
+
+# Positions teext to the left of the points (0.6 is closer to the left than 1, for instance)
+x2 <- rep(seq(0.6, 4.6, 1), times = 6)
+y2 <- rep(6:1, each = 5)
+
+# Labels the 26 coordinates 0 through 25
+text(x2[1:26], y2[1:26], 0:25)
+
+```
+
+### Although less efficient, this code avoids expand.grid() function be separating each "grid" into the x and y components. The x-axis shape coordinate is determined by running through the sequence from 1-5 for a total of 6 times (i.e. starting from the top left corner, the places shapes 0-4 on the top row, before repeating with shapes 5-9 on the lower row). This is complemented by the y-axis shape coordinate, which places the first five shapes on row 6 (the uppermost), before descending. This allows for them to form organized rows and columns when plotted. The shapes are then able to be labeled via a similar mechanism, with x2 and y2 coordinates representing the label locations. These positions are quite similar, except the x2 coordinate is shifted slightly to the left to ensure that the numbers aren't covering up the shapes. The final line of code actually writes out the lists based on their relative position from 0-25.
+
+### The final graph is as follows:
+<img width="281" height="241" alt="image" src="https://github.com/user-attachments/assets/9aa14454-6269-4641-83cb-c29e4289367f" />
+
 
 ## Problem 2: Recreating a figure in scientific literature
 ### The original figure is displayed as follows:
